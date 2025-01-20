@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ca0b7904a21c3a84482d9d11ba308207
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabtoDestroy: {fileID: 7130553259912702913, guid: 1448997ad70145e418fc079de8585457, type: 3}
+  - playerAudio: {instanceID: 0}
+  - powerupConsume: {fileID: 8300000, guid: 35b84eed34293864ea94275694cd69ba, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
