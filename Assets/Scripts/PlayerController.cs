@@ -15,7 +15,8 @@ public class PlayerController : MonoBehaviour
     public ParticleSystem explosionParticle;
     public ParticleSystem dirtParticle;
     public AudioClip jumpSound;
-    public AudioClip crashSound;
+    public AudioClip shootSound; // Shooting sound
+    public AudioClip gameOverSound; // Game over sound
     public AudioClip powerupConsume;
     public AudioSource playerAudio;
     public GameObject projectilePrefab;
@@ -23,7 +24,7 @@ public class PlayerController : MonoBehaviour
     public TextMeshProUGUI gameOverText;
 
     private bool canShoot = true; // Tracks if the player can shoot
-    [SerializeField] private float shootCooldown = 1.5f; // Cooldown time set to 1.5 seconds
+    [SerializeField] private float shootCooldown = 1.5f; // Cooldown time for shooting
 
     // Start is called before the first frame update
     void Start()
@@ -58,13 +59,20 @@ public class PlayerController : MonoBehaviour
     private void LaunchProjectile()
     {
         Instantiate(projectilePrefab, transform.position, projectilePrefab.transform.rotation);
+
+        // Play shooting sound
+        if (playerAudio != null && shootSound != null)
+        {
+            playerAudio.PlayOneShot(shootSound, 1.0f);
+        }
+
         StartCoroutine(ShootCooldownRoutine());
     }
 
     private IEnumerator ShootCooldownRoutine()
     {
         canShoot = false; // Disable shooting
-        yield return new WaitForSeconds(shootCooldown); // Wait for cooldown duration (1.5 seconds)
+        yield return new WaitForSeconds(shootCooldown); // Wait for cooldown duration
         canShoot = true; // Re-enable shooting
     }
 
@@ -77,14 +85,7 @@ public class PlayerController : MonoBehaviour
         }
         else if (collision.gameObject.CompareTag("Obstacle"))
         {
-            Debug.Log("Game Over!"); // Game Over is triggered when player collides with obstacle
-            gameOver = true;
-            playerAnim.SetBool("Death_b", true);
-            playerAnim.SetInteger("DeathType_int", 1);
-            explosionParticle.Play();
-            dirtParticle.Stop();
-            playerAudio.PlayOneShot(crashSound, 1.0f);
-            gameManager.GameOver();
+            HandleGameOver(); // Call Game Over logic
         }
     }
 
@@ -92,11 +93,26 @@ public class PlayerController : MonoBehaviour
     {
         if (other.CompareTag("PowerUp"))
         {
-            gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
-            gameManager.UpdateScore(5); // Score is increased by 5 and game object is destroyed  
+            gameManager.UpdateScore(5); // Score is increased by 5
             hasPowerUp = true;
-            Destroy(other.gameObject); // Makes powerup disappear
-            playerAudio.PlayOneShot(powerupConsume, 1.0f); // Eating sound plays when player collides with powerup
+            Destroy(other.gameObject); // Remove the power-up
+            playerAudio.PlayOneShot(powerupConsume, 1.0f); // Play power-up sound
         }
+    }
+
+    private void HandleGameOver()
+    {
+        Debug.Log("Game Over!");
+        gameOver = true;
+
+        // Notify the game manager
+        gameManager.GameOver();
+
+        // Play game over sound
+        if (playerAudio != null && gameOverSound != null)
+        {
+            playerAudio.PlayOneShot(gameOverSound, 1.0f);
+        }
+
     }
 }

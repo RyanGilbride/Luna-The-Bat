@@ -3817,6 +3817,10 @@ PrefabInstance:
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 974174871803534735, guid: c9951ca0f61167b4593ffe21b0a089c8, type: 3}
+      propertyPath: shootSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 913d6445ee8cc4152a9c18da590ee203, type: 3}
+    - target: {fileID: 974174871803534735, guid: c9951ca0f61167b4593ffe21b0a089c8, type: 3}
       propertyPath: gameManager
       value: 
       objectReference: {fileID: 1155534564}
@@ -3828,6 +3832,10 @@ PrefabInstance:
       propertyPath: gameOverText
       value: 
       objectReference: {fileID: 9172633}
+    - target: {fileID: 974174871803534735, guid: c9951ca0f61167b4593ffe21b0a089c8, type: 3}
+      propertyPath: gameOverSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 4bcde6de2166e41e284ec46d8a01fb90, type: 3}
     - target: {fileID: 974174871803534735, guid: c9951ca0f61167b4593ffe21b0a089c8, type: 3}
       propertyPath: shootCooldown
       value: 0.25
