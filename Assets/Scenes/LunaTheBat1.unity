@@ -4312,7 +4312,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Level 1 Goal:
 
-    300 points'
+    100 points'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 14308d48fdf32974595cac0472b38ba2, type: 2}
   m_sharedMaterial: {fileID: 662084627981765390, guid: 14308d48fdf32974595cac0472b38ba2, type: 2}
