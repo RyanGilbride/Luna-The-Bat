@@ -6,12 +6,17 @@ public class CollisionWithGhost : MonoBehaviour
 {
     public GameObject ghostPrefab; // Reference to the ghost prefab
     private GameManager gameManager; // Reference to the GameManager
+    public AudioClip ghostCollisionSound; // Audio clip to play upon collision
+    private AudioSource audioSource; // Audio source component
 
     // Start is called before the first frame update
     void Start()
     {
         // Find the GameManager in the scene
         gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
+
+        // Get or add an AudioSource component
+        audioSource = gameObject.AddComponent<AudioSource>();
     }
 
     // Triggered when another collider enters this object's trigger collider
@@ -20,9 +25,17 @@ public class CollisionWithGhost : MonoBehaviour
         // Check if the collided object has the tag "Ghost"
         if (other.CompareTag("Ghost"))
         {
-            //Destroy(other.gameObject); // Destroy the ghost upon collision
+            // Play the collision sound if assigned
+            if (ghostCollisionSound != null)
+            {
+                audioSource.PlayOneShot(ghostCollisionSound);
+            }
 
-            gameManager.UpdateLives(-1); // Add 1 life to the player
+            // Destroy the ghost upon collision
+            Destroy(other.gameObject);
+
+            // Add 1 life to the player
+            gameManager.UpdateLives(-1);
         }
     }
 }
