@@ -85,7 +85,7 @@ public class PlayerController : MonoBehaviour
             isOnGround = true; // Prevents player double jumping
             dirtParticle.Play();
         }
-        else if (collision.gameObject.CompareTag("Obstacle"))
+        else if (collision.gameObject.CompareTag("Obstacle") && !gameOver)
         {
             HandleGameOver(); // Trigger Game Over logic
         }
@@ -99,7 +99,8 @@ public class PlayerController : MonoBehaviour
         // Notify the game manager
         gameManager.GameOver();
 
-        // Play game over sound
+        // Stop other sounds and play the game over sound
+        playerAudio.Stop(); // Stop any currently playing audio
         if (playerAudio != null && gameOverSound != null)
         {
             playerAudio.PlayOneShot(gameOverSound, 1.0f);
@@ -113,6 +114,7 @@ public class PlayerController : MonoBehaviour
         explosionParticle.Play();
         dirtParticle.Stop();
     }
+
 
     private void OnTriggerEnter(Collider other)
     {
