@@ -40,22 +40,34 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // Handle projectile launching
-        if (Input.GetKeyDown(KeyCode.Tab) && canShoot && !gameOver)
-        {
-            LaunchProjectile();
-        }
+        // Handle projectile launching (Removed Input.GetKeyDown, now use Shoot() method)
 
-        // Handle jumping
-        if (Input.GetKeyDown(KeyCode.Space) && isOnGround && !gameOver)
+        // Handle jumping (Removed Input.GetKeyDown, now use Jump() method)
+    }
+
+    // Method for Jumping (Call this from a UI Button)
+    public void Jump()
+    {
+        if (isOnGround && !gameOver)
         {
             playerRb.AddForce(Vector3.up * 15, ForceMode.Impulse);
             isOnGround = false;
             playerAnim.SetTrigger("Jump_trig");
             dirtParticle.Stop();
-            playerAudio.PlayOneShot(jumpSound, 1.0f); // Plays jump sound when player presses space bar 
+            playerAudio.PlayOneShot(jumpSound, 1.0f);
         }
     }
+
+    // Method for Shooting (Call this from a UI Button)
+    public void Shoot()
+    {
+        if (!canShoot || gameOver) return; // Prevent shooting if cooldown is active or game is over
+
+        LaunchProjectile();
+        StartCoroutine(ShootCooldownRoutine()); // Start cooldown after shooting
+    }
+
+
     private void LaunchProjectile()
     {
         GameObject projectile = projectilePool.GetProjectile(); // Get a projectile from the pool
