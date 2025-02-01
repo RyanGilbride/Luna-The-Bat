@@ -1,44 +1,26 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class DifficultyButton : MonoBehaviour
 {
-    private Button button;
-    public GameManager gameManager;
-    public int difficulty;
+    [SerializeField] private int difficulty;
 
-    // Start is called before the first frame update
+    private Button button;
+    private GameManager gameManager;
+
     void Start()
     {
-        gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
         button = GetComponent<Button>();
-        button.onClick.AddListener(SelectLevel);
-        
-    }
+        gameManager = GameObject.Find("GameManager")?.GetComponent<GameManager>();
 
-    // Update is called once per frame
-    void Update()
-    {
-        if (GameManager.totalScore >= 100)
+        if (button != null && gameManager != null)
         {
-
+            button.onClick.AddListener(SelectLevel);
         }
     }
 
-
-void SelectLevel()
+    private void SelectLevel()
     {
-        gameManager.StartGame(difficulty);
-        Debug.Log(gameObject.name + "was clicked");
-
-    }
-
-    public void LevelTwo()
-    {
-        SceneManager.LoadScene("LunaTheBat2");
-
+        gameManager?.StartGame(difficulty);
     }
 }

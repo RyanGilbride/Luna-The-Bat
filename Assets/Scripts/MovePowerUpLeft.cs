@@ -1,42 +1,32 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class MovePowerUpLeft : MonoBehaviour
 {
-    public float speed = 10;
-    private PlayerController playerControllerScript;
-    private float leftBound = -15;
-    private GameManager gameManager;
-    private float bounceSpeed = 1.0f; // Speed of the bounce
-    private float bounceHeight =5.0f; // Height of the bounce
-    private Vector3 initialPosition;
+    [SerializeField] private float speed = 10.0f;
+    [SerializeField] private float bounceSpeed = 1.0f;
+    [SerializeField] private float bounceHeight = 5.0f;
 
-    // Start is called before the first frame update
+    private Vector3 initialPosition;
+    private PlayerController playerControllerScript;
+    private GameManager gameManager;
+
     void Start()
     {
-        playerControllerScript =
-            GameObject.Find("Player").GetComponent<PlayerController>();
-        gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
-
-        initialPosition = transform.position; // Store the starting position of the object
+        initialPosition = transform.position;
+        playerControllerScript = GameObject.Find("Player")?.GetComponent<PlayerController>();
+        gameManager = GameObject.Find("GameManager")?.GetComponent<GameManager>();
     }
 
-    // Update is called once per frame
     void Update()
     {
-        if (playerControllerScript.gameOver == false && gameManager.isGameActive == true)
+        if (playerControllerScript != null && !playerControllerScript.gameOver && gameManager != null && gameManager.isGameActive)
         {
-            // Move the object to the left
             transform.Translate(Vector3.back * Time.deltaTime * speed);
-
-            // Bounce the object between y = 0 and y = 1
             float newY = initialPosition.y + Mathf.PingPong(Time.time * bounceSpeed, bounceHeight);
             transform.position = new Vector3(transform.position.x, newY, transform.position.z);
         }
 
-        // Remove obstacles when they go off-screen
-        if (transform.position.x < leftBound && gameObject.CompareTag("PowerUp"))
+        if (transform.position.x < -15 && gameObject.CompareTag("PowerUp"))
         {
             Destroy(gameObject);
         }

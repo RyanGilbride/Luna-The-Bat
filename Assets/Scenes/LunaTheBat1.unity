@@ -1456,6 +1456,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyPrefab: {fileID: 3434936497642236683, guid: da1388dded75d8841a0eac45d5a7dfd1, type: 3}
   ghostPrefab: {fileID: 1849936960482616, guid: 46ed63af97cc2db47b121fc1b2cc6bf0, type: 3}
+  spawnPosEnemy: {x: 30, y: 0, z: 0}
+  spawnPosGhost: {x: 30, y: 0, z: 0}
+  startDelay: 2
   repeatRate: 5
 --- !u!1 &457515672
 GameObject:
@@ -4025,8 +4028,6 @@ MonoBehaviour:
   scoreText: {fileID: 265499355}
   livesText: {fileID: 2010137980}
   timeText: {fileID: 0}
-  targets:
-  - {fileID: 3434936497642236683, guid: da1388dded75d8841a0eac45d5a7dfd1, type: 3}
   restartButton: {fileID: 922041425}
   levelButton: {fileID: 53915595}
   helpButton: {fileID: 0}
@@ -4035,22 +4036,8 @@ MonoBehaviour:
   goalScreen: {fileID: 1133018306}
   pauseScreen: {fileID: 623780206}
   helpScreen: {fileID: 164679842}
-  LunaTheBat1:
-    m_Handle: 0
-  LunaTheBat2:
-    m_Handle: 0
-  LunaTheBat3:
-    m_Handle: 0
-  LunaTheBat4:
-    m_Handle: 0
-  enemySpawnManager: {fileID: 431297579}
-  moveEnemyLeft: {fileID: 0}
-  moveLeft: {fileID: 0}
-  isGameActive: 0
   goalScore: 100
-  goalScore1: 0
-  goalScore2: 0
-  goalScore3: 0
+  isGameActive: 0
 --- !u!4 &1155534565
 Transform:
   m_ObjectHideFlags: 0

@@ -1,31 +1,26 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class MoveLeft : MonoBehaviour
 {
-    public float speed = 10;
+    [SerializeField] private float speed = 10.0f;
+
     private PlayerController playerControllerScript;
-    private float leftBound = -15;
     private GameManager gameManager;
-    // Start is called before the first frame update
+
     void Start()
     {
-        playerControllerScript =
-            GameObject.Find("Player").GetComponent<PlayerController>();
-        gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
+        playerControllerScript = GameObject.Find("Player")?.GetComponent<PlayerController>();
+        gameManager = GameObject.Find("GameManager")?.GetComponent<GameManager>();
     }
 
-    // Update is called once per frame
     void Update()
     {
-        //moves object this script is attached to to the left 
-        if (playerControllerScript.gameOver == false && gameManager.isGameActive == true)
+        if (playerControllerScript != null && !playerControllerScript.gameOver && gameManager != null && gameManager.isGameActive)
         {
             transform.Translate(Vector3.left * Time.deltaTime * speed);
         }
-        //remove obstacles when the go off screen
-        if (transform.position.x < leftBound && gameObject.CompareTag("Obstacle"))
+
+        if (transform.position.x < -15 && gameObject.CompareTag("Obstacle"))
         {
             Destroy(gameObject);
         }

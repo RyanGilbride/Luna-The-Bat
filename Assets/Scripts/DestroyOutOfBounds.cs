@@ -1,20 +1,12 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class DestroyOutOfBounds : MonoBehaviour
 {
-    private float rightBound = 30;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    [SerializeField] private float rightBound = 30.0f;
 
-    // Update is called once per frame
     void Update()
     {
-        if(transform.position.x > rightBound)
+        if (transform.position.x > rightBound)
         {
             Destroy(gameObject);
         }

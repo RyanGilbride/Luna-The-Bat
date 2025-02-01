@@ -1,43 +1,41 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SocialPlatforms.Impl;
 
 public class EnemySpawnManager : MonoBehaviour
 {
-    public GameObject enemyPrefab; // Original enemy prefab
-    public GameObject ghostPrefab; // New enemy prefab
+    [SerializeField] private GameObject enemyPrefab;
+    [SerializeField] private GameObject ghostPrefab;
+    [SerializeField] private Vector3 spawnPosEnemy = new Vector3(30, 0, 0);
+    [SerializeField] private Vector3 spawnPosGhost = new Vector3(30, 0, 0);
+    [SerializeField] private float startDelay = 2.0f;
+    [SerializeField] private float repeatRate = 2.0f;
+
     private PlayerController playerControllerScript;
 
-    private Vector3 spawnPosEnemy = new Vector3(30, 0, 0); // Spawn position for the original enemy
-    private Vector3 spawnPosGhost = new Vector3(30, 0, 0); // Spawn position for the ghost
-    private float startDelay = 2.0f; // Delay before spawning begins
-    public float repeatRate; // Interval between spawns
-
-    // Start is called before the first frame update
     void Start()
     {
-        // Loop the spawning of enemies
-        InvokeRepeating("SpawnEnemy", startDelay, repeatRate);
-        InvokeRepeating("SpawnGhost", startDelay + 1.0f, repeatRate + 1.0f); // Slightly offset to alternate spawns
+        playerControllerScript = GameObject.Find("Player")?.GetComponent<PlayerController>();
 
-        playerControllerScript = GameObject.Find("Player").GetComponent<PlayerController>();
+        if (playerControllerScript == null)
+        {
+            Debug.LogError("PlayerController not found!");
+            return;
+        }
+
+        InvokeRepeating("SpawnEnemy", startDelay, repeatRate);
+        InvokeRepeating("SpawnGhost", startDelay + 1.0f, repeatRate + 1.0f);
     }
 
-    // Spawn the original enemy
     public void SpawnEnemy()
     {
-        if (playerControllerScript.gameOver == false)
+        if (!playerControllerScript.gameOver)
         {
             Instantiate(enemyPrefab, spawnPosEnemy, enemyPrefab.transform.rotation);
         }
     }
 
-    // Spawn the ghost enemy
     public void SpawnGhost()
     {
-        if (playerControllerScript.gameOver == false)
+        if (!playerControllerScript.gameOver)
         {
             Instantiate(ghostPrefab, spawnPosGhost, ghostPrefab.transform.rotation);
         }
