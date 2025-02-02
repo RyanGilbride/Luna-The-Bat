@@ -443,7 +443,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e92ad1e57239c64e9544698b4813770, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 1155534564}
   difficulty: 1
 --- !u!114 &53915595
 MonoBehaviour:
@@ -1681,6 +1680,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyPrefab: {fileID: 3434936497642236683, guid: da1388dded75d8841a0eac45d5a7dfd1, type: 3}
   ghostPrefab: {fileID: 1849936960482616, guid: 46ed63af97cc2db47b121fc1b2cc6bf0, type: 3}
+  spawnPosEnemy: {x: 30, y: 0, z: 0}
+  spawnPosGhost: {x: 30, y: 0, z: 0}
+  startDelay: 2
   repeatRate: 5
 --- !u!1 &534669902
 GameObject:
@@ -3893,8 +3895,6 @@ MonoBehaviour:
   scoreText: {fileID: 265499355}
   livesText: {fileID: 2010137980}
   timeText: {fileID: 0}
-  targets:
-  - {fileID: 3434936497642236683, guid: da1388dded75d8841a0eac45d5a7dfd1, type: 3}
   restartButton: {fileID: 922041425}
   levelButton: {fileID: 53915595}
   helpButton: {fileID: 1723851548}
@@ -3903,22 +3903,8 @@ MonoBehaviour:
   goalScreen: {fileID: 1133018306}
   pauseScreen: {fileID: 657231216}
   helpScreen: {fileID: 1059224505}
-  LunaTheBat1:
-    m_Handle: 0
-  LunaTheBat2:
-    m_Handle: 0
-  LunaTheBat3:
-    m_Handle: 0
-  LunaTheBat4:
-    m_Handle: 0
-  enemySpawnManager: {fileID: 431297579}
-  moveEnemyLeft: {fileID: 0}
-  moveLeft: {fileID: 0}
-  isGameActive: 0
   goalScore: 200
-  goalScore1: 0
-  goalScore2: 0
-  goalScore3: 0
+  isGameActive: 0
 --- !u!4 &1155534565
 Transform:
   m_ObjectHideFlags: 0
@@ -4649,7 +4635,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c0a6d41bb3bed840a65df47e75cbb03, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ghostPrefab: {fileID: 1849936960482616, guid: 46ed63af97cc2db47b121fc1b2cc6bf0, type: 3}
   ghostCollisionSound: {fileID: 8300000, guid: 0f7d0b7c3397f4dac91f20e8a77d2d57, type: 3}
 --- !u!114 &1481771208 stripped
 MonoBehaviour:
@@ -4710,10 +4695,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -5168,7 +5153,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e92ad1e57239c64e9544698b4813770, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 1155534564}
   difficulty: 0
 --- !u!114 &1664515187
 MonoBehaviour:
