@@ -35,10 +35,7 @@ public class GameManager : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.P))
-        {
-            ChangePaused();
-        }
+        // Removed the "P" key input check here
 
         if (totalScore >= goalScore)
         {
@@ -106,7 +103,8 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene("LunaTheBat4");
     }
 
-    private void ChangePaused()
+    // Made this method public to call from a UI button
+    public void ChangePaused()
     {
         paused = !paused;
         pauseScreen.SetActive(paused);
