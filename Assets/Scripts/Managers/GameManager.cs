@@ -94,7 +94,22 @@ public class GameManager : MonoBehaviour
 
         // Broadcast difficulty to other scripts
         BroadcastMessage("OnDifficultyChanged", difficultyMultiplier, SendMessageOptions.DontRequireReceiver);
+      
+        if (consecutiveHits >= 5)
+        {
+            difficultyMultiplier += 0.1f;
+            Debug.Log($"Difficulty Increased: {difficultyMultiplier}");
+            consecutiveHits = 0;
+        }
+
+        if (consecutiveMisses >= 3)
+        {
+            difficultyMultiplier = Mathf.Max(1.0f, difficultyMultiplier - 0.1f);
+            Debug.Log($"Difficulty Decreased: {difficultyMultiplier}");
+            consecutiveMisses = 0;
+        }
     }
+
 
     // GameOver Method
     public void GameOver()

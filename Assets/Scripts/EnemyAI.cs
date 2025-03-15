@@ -7,11 +7,9 @@ public class EnemyAI : MonoBehaviour
 
     public void SetDifficulty(float difficultyMultiplier)
     {
-        // Adjust speed and attack cooldown based on difficulty
         speed *= difficultyMultiplier;
         attackCooldown /= difficultyMultiplier;
-
-        // Apply changes to the enemy
+        Debug.Log($"Enemy Speed: {speed}, Attack Cooldown: {attackCooldown}");
         ApplyDifficultyChanges();
     }
 
