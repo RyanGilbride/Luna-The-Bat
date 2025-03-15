@@ -1,0 +1,172 @@
+[15/03/2025 13:46:10] Game Started
+[15/03/2025 13:46:12] Score Updated: 0
+[15/03/2025 13:46:12] Lives Updated: 3
+[15/03/2025 13:46:12] Game Started
+[15/03/2025 13:46:12] Score Updated: 0
+[15/03/2025 13:46:12] Lives Updated: 3
+[15/03/2025 13:46:12] Game Started
+[15/03/2025 13:46:13] Score Updated: 10
+[15/03/2025 13:46:14] Score Updated: 11
+[15/03/2025 13:46:15] Lives Updated: 4
+[15/03/2025 13:46:16] Score Updated: 12
+[15/03/2025 13:46:17] Score Updated: 22
+[15/03/2025 13:46:18] Score Updated: 27
+[15/03/2025 13:46:18] Score Updated: 32
+[15/03/2025 13:46:18] Score Updated: 33
+[15/03/2025 13:46:18] Difficulty Increased: 1.1
+[15/03/2025 13:46:19] Score Updated: 38
+[15/03/2025 13:46:19] Score Updated: 43
+[15/03/2025 13:46:21] Score Updated: 44
+[15/03/2025 13:46:21] Lives Updated: 5
+[15/03/2025 13:46:21] Score Updated: 49
+[15/03/2025 13:46:21] Score Updated: 54
+[15/03/2025 13:46:23] Score Updated: 64
+[15/03/2025 13:46:23] Score Updated: 65
+[15/03/2025 13:46:24] Score Updated: 66
+[15/03/2025 13:46:24] Difficulty Increased: 1.2
+[15/03/2025 13:46:25] Score Updated: 71
+[15/03/2025 13:46:25] Score Updated: 76
+[15/03/2025 13:46:27] Lives Updated: 6
+[15/03/2025 13:46:27] Score Updated: 77
+[15/03/2025 13:46:28] Score Updated: 87
+[15/03/2025 13:46:28] Score Updated: 88
+[15/03/2025 13:46:31] Score Updated: 89
+[15/03/2025 13:46:31] Score Updated: 94
+[15/03/2025 13:46:31] Score Updated: 99
+[15/03/2025 13:46:31] Difficulty Increased: 1.3
+[15/03/2025 13:46:32] Score Updated: 100
+[15/03/2025 13:46:33] Score Updated: 110
+[15/03/2025 13:46:34] Level 2 Loaded
+[15/03/2025 13:46:34] Score Updated: 0
+[15/03/2025 13:46:34] Lives Updated: 6
+[15/03/2025 13:46:34] Game Started
+[15/03/2025 13:46:34] Game Started
+[15/03/2025 13:46:35] Score Updated: 0
+[15/03/2025 13:46:35] Lives Updated: 3
+[15/03/2025 13:46:35] Game Started
+[15/03/2025 13:46:35] Score Updated: 0
+[15/03/2025 13:46:35] Lives Updated: 3
+[15/03/2025 13:46:35] Game Started
+[15/03/2025 13:46:37] Score Updated: 1
+[15/03/2025 13:46:37] Score Updated: 11
+[15/03/2025 13:46:38] Score Updated: 12
+[15/03/2025 13:46:38] Lives Updated: 4
+[15/03/2025 13:46:39] Score Updated: 13
+[15/03/2025 13:46:39] Score Updated: 18
+[15/03/2025 13:46:39] Score Updated: 23
+[15/03/2025 13:46:40] Score Updated: 24
+[15/03/2025 13:46:40] Score Updated: 29
+[15/03/2025 13:46:40] Score Updated: 34
+[15/03/2025 13:46:40] Difficulty Increased: 1.1
+[15/03/2025 13:46:41] Score Updated: 35
+[15/03/2025 13:46:41] Score Updated: 40
+[15/03/2025 13:46:41] Score Updated: 45
+[15/03/2025 13:46:42] Score Updated: 46
+[15/03/2025 13:46:42] Score Updated: 56
+[15/03/2025 13:46:42] Difficulty Increased: 1.2
+[15/03/2025 13:46:42] Score Updated: 61
+[15/03/2025 13:46:42] Score Updated: 66
+[15/03/2025 13:46:43] Score Updated: 67
+[15/03/2025 13:46:44] Score Updated: 68
+[15/03/2025 13:46:44] Lives Updated: 5
+[15/03/2025 13:46:45] Score Updated: 69
+[15/03/2025 13:46:46] Score Updated: 70
+[15/03/2025 13:46:47] Score Updated: 71
+[15/03/2025 13:46:47] Lives Updated: 4
+[15/03/2025 13:46:47] Score Updated: 81
+[15/03/2025 13:46:48] Score Updated: 82
+[15/03/2025 13:46:48] Game Over!
+[15/03/2025 13:46:49] Score Updated: 83
+[15/03/2025 13:46:50] Game Restarted
+[15/03/2025 13:46:50] Game Started
+[15/03/2025 13:46:51] Score Updated: 0
+[15/03/2025 13:46:51] Lives Updated: 3
+[15/03/2025 13:46:51] Game Started
+[15/03/2025 13:46:51] Score Updated: 0
+[15/03/2025 13:46:51] Lives Updated: 3
+[15/03/2025 13:46:51] Game Started
+[15/03/2025 13:46:52] Score Updated: 1
+[15/03/2025 13:46:53] Score Updated: 11
+[15/03/2025 13:46:54] Score Updated: 12
+[15/03/2025 13:46:54] Lives Updated: 4
+[15/03/2025 13:46:55] Score Updated: 13
+[15/03/2025 13:46:56] Score Updated: 14
+[15/03/2025 13:46:57] Score Updated: 19
+[15/03/2025 13:46:57] Score Updated: 24
+[15/03/2025 13:46:58] Score Updated: 34
+[15/03/2025 13:46:58] Difficulty Increased: 1.1
+[15/03/2025 13:46:58] Game Over!
+[15/03/2025 13:46:59] Game Restarted
+[15/03/2025 13:46:59] Game Started
+[15/03/2025 13:47:02] Score Updated: 0
+[15/03/2025 13:47:02] Lives Updated: 3
+[15/03/2025 13:47:02] Game Started
+[15/03/2025 13:47:02] Score Updated: 0
+[15/03/2025 13:47:02] Lives Updated: 3
+[15/03/2025 13:47:02] Game Started
+[15/03/2025 13:47:03] Score Updated: 10
+[15/03/2025 13:47:03] Score Updated: 11
+[15/03/2025 13:47:03] Game Over!
+[15/03/2025 13:47:04] Game Restarted
+[15/03/2025 13:47:04] Game Started
+[15/03/2025 13:47:05] Score Updated: 0
+[15/03/2025 13:47:05] Lives Updated: 3
+[15/03/2025 13:47:05] Game Started
+[15/03/2025 13:47:05] Score Updated: 0
+[15/03/2025 13:47:05] Lives Updated: 3
+[15/03/2025 13:47:05] Game Started
+[15/03/2025 13:47:06] Score Updated: 1
+[15/03/2025 13:47:07] Score Updated: 11
+[15/03/2025 13:47:08] Score Updated: 12
+[15/03/2025 13:47:09] Score Updated: 13
+[15/03/2025 13:47:09] Lives Updated: 4
+[15/03/2025 13:47:09] Score Updated: 18
+[15/03/2025 13:47:09] Score Updated: 23
+[15/03/2025 13:47:09] Score Updated: 24
+[15/03/2025 13:47:10] Score Updated: 29
+[15/03/2025 13:47:10] Score Updated: 34
+[15/03/2025 13:47:10] Difficulty Increased: 1.1
+[15/03/2025 13:47:10] Score Updated: 35
+[15/03/2025 13:47:11] Score Updated: 40
+[15/03/2025 13:47:11] Score Updated: 45
+[15/03/2025 13:47:11] Score Updated: 46
+[15/03/2025 13:47:12] Score Updated: 56
+[15/03/2025 13:47:12] Difficulty Increased: 1.2
+[15/03/2025 13:47:13] Score Updated: 57
+[15/03/2025 13:47:14] Score Updated: 58
+[15/03/2025 13:47:14] Lives Updated: 5
+[15/03/2025 13:47:15] Score Updated: 59
+[15/03/2025 13:47:16] Score Updated: 60
+[15/03/2025 13:47:17] Score Updated: 61
+[15/03/2025 13:47:17] Score Updated: 71
+[15/03/2025 13:47:18] Score Updated: 76
+[15/03/2025 13:47:18] Score Updated: 81
+[15/03/2025 13:47:18] Difficulty Increased: 1.3
+[15/03/2025 13:47:18] Score Updated: 86
+[15/03/2025 13:47:18] Score Updated: 91
+[15/03/2025 13:47:18] Score Updated: 92
+[15/03/2025 13:47:18] Game Over!
+[15/03/2025 13:47:20] Game Restarted
+[15/03/2025 13:47:20] Game Started
+[15/03/2025 13:47:21] Score Updated: 0
+[15/03/2025 13:47:21] Lives Updated: 3
+[15/03/2025 13:47:21] Game Started
+[15/03/2025 13:47:21] Score Updated: 0
+[15/03/2025 13:47:21] Lives Updated: 3
+[15/03/2025 13:47:21] Game Started
+[15/03/2025 13:47:22] Score Updated: 1
+[15/03/2025 13:47:23] Score Updated: 11
+[15/03/2025 13:47:24] Score Updated: 12
+[15/03/2025 13:47:24] Lives Updated: 4
+[15/03/2025 13:47:24] Score Updated: 13
+[15/03/2025 13:47:25] Score Updated: 14
+[15/03/2025 13:47:26] Score Updated: 15
+[15/03/2025 13:47:27] Score Updated: 16
+[15/03/2025 13:47:28] Score Updated: 26
+[15/03/2025 13:47:28] Score Updated: 31
+[15/03/2025 13:47:28] Score Updated: 36
+[15/03/2025 13:47:28] Difficulty Increased: 1.1
+[15/03/2025 13:47:29] Score Updated: 37
+[15/03/2025 13:47:29] Game Over!
+[15/03/2025 13:47:30] Game Restarted
+[15/03/2025 13:47:30] Game Started
