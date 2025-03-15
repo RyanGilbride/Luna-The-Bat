@@ -2311,6 +2311,7 @@ GameObject:
   - component: {fileID: 1048332089437938355}
   - component: {fileID: 599933769805086085}
   - component: {fileID: 8766717564203862963}
+  - component: {fileID: 6933211341332601782}
   m_Layer: 0
   m_Name: Enemy 2
   m_TagString: Ghost
@@ -2419,6 +2420,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 15
+  bounceSpeed: 1
+  minY: -4
+  maxY: 10
+--- !u!114 &6933211341332601782
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1849936960482616}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 167ff2eb3791b8d45afbd63e8037bd3f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1851628079018304
 GameObject:
   m_ObjectHideFlags: 0

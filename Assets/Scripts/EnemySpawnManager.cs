@@ -10,14 +10,20 @@ public class EnemySpawnManager : MonoBehaviour
     [SerializeField] private float repeatRate = 2.0f;
 
     private PlayerController playerControllerScript;
+    private GameManager gameManager;
+
+    // Dynamic AI Variables
+    private float initialRepeatRate;
 
     void Start()
     {
+        initialRepeatRate = repeatRate; // Store initial repeat rate
         playerControllerScript = GameObject.Find("Player")?.GetComponent<PlayerController>();
+        gameManager = GameObject.Find("GameManager")?.GetComponent<GameManager>();
 
-        if (playerControllerScript == null)
+        if (playerControllerScript == null || gameManager == null)
         {
-            Debug.LogError("PlayerController not found!");
+            Debug.LogError("PlayerController or GameManager not found!");
             return;
         }
 
@@ -29,7 +35,12 @@ public class EnemySpawnManager : MonoBehaviour
     {
         if (!playerControllerScript.gameOver)
         {
-            Instantiate(enemyPrefab, spawnPosEnemy, enemyPrefab.transform.rotation);
+            GameObject enemy = Instantiate(enemyPrefab, spawnPosEnemy, enemyPrefab.transform.rotation);
+            EnemyAI enemyAI = enemy.GetComponent<EnemyAI>();
+            if (enemyAI != null)
+            {
+                enemyAI.SetDifficulty(gameManager.GetDifficultyMultiplier()); // Pass difficulty to AI
+            }
         }
     }
 
@@ -37,7 +48,22 @@ public class EnemySpawnManager : MonoBehaviour
     {
         if (!playerControllerScript.gameOver)
         {
-            Instantiate(ghostPrefab, spawnPosGhost, ghostPrefab.transform.rotation);
+            GameObject ghost = Instantiate(ghostPrefab, spawnPosGhost, ghostPrefab.transform.rotation);
+            EnemyAI ghostAI = ghost.GetComponent<EnemyAI>();
+            if (ghostAI != null)
+            {
+                ghostAI.SetDifficulty(gameManager.GetDifficultyMultiplier()); // Pass difficulty to AI
+            }
         }
+    }
+
+    // Adjust spawn rate and AI behavior based on difficulty
+    private void OnDifficultyChanged(float difficultyMultiplier)
+    {
+        repeatRate = initialRepeatRate / difficultyMultiplier; // Faster spawns as difficulty increases
+        CancelInvoke("SpawnEnemy");
+        CancelInvoke("SpawnGhost");
+        InvokeRepeating("SpawnEnemy", startDelay, repeatRate);
+        InvokeRepeating("SpawnGhost", startDelay + 1.0f, repeatRate + 1.0f);
     }
 }

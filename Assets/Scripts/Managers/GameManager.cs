@@ -24,6 +24,11 @@ public class GameManager : MonoBehaviour
     public bool isGameActive;
     private bool paused;
 
+    // Adaptive Difficulty Variables
+    private float difficultyMultiplier = 1.0f; // Scales difficulty based on player performance
+    private int consecutiveHits = 0; // Tracks successful actions (e.g., kills, dodges)
+    private int consecutiveMisses = 0; // Tracks failures (e.g., hits taken)
+
     void Start()
     {
         titleScreen.SetActive(true);
@@ -35,14 +40,15 @@ public class GameManager : MonoBehaviour
 
     void Update()
     {
-        // Removed the "P" key input check here
-
         if (totalScore >= goalScore)
         {
             isGameActive = false;
             goalScreen.SetActive(true);
             levelButton.gameObject.SetActive(true);
         }
+
+        // Adjust difficulty dynamically
+        AdjustDifficulty();
     }
 
     public void UpdateLives(int livesToRemove)
@@ -52,16 +58,53 @@ public class GameManager : MonoBehaviour
 
         if (lives <= 0)
         {
-            GameOver();
+            GameOver(); // Call the GameOver method
         }
+
+        // Track misses for adaptive difficulty
+        consecutiveMisses++;
+        consecutiveHits = 0;
     }
 
     public void UpdateScore(int scoreToAdd)
     {
         totalScore += scoreToAdd;
         scoreText.text = "Score: " + totalScore;
+
+        // Track hits for adaptive difficulty
+        consecutiveHits++;
+        consecutiveMisses = 0;
     }
 
+    private void AdjustDifficulty()
+    {
+        // Increase difficulty if player is doing well
+        if (consecutiveHits >= 5)
+        {
+            difficultyMultiplier += 0.1f; // Increase difficulty
+            consecutiveHits = 0; // Reset counter
+        }
+
+        // Decrease difficulty if player is struggling
+        if (consecutiveMisses >= 3)
+        {
+            difficultyMultiplier = Mathf.Max(1.0f, difficultyMultiplier - 0.1f); // Decrease difficulty (minimum 1.0)
+            consecutiveMisses = 0; // Reset counter
+        }
+
+        // Broadcast difficulty to other scripts
+        BroadcastMessage("OnDifficultyChanged", difficultyMultiplier, SendMessageOptions.DontRequireReceiver);
+    }
+
+    // GameOver Method
+    public void GameOver()
+    {
+        isGameActive = false;
+        gameOverScreen.SetActive(true);
+        restartButton.gameObject.SetActive(true);
+    }
+
+    // Other methods remain unchanged...
     public void StartGame(int difficulty)
     {
         isGameActive = true;
@@ -74,13 +117,6 @@ public class GameManager : MonoBehaviour
     public void RestartGame()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-    }
-
-    public void GameOver()
-    {
-        isGameActive = false;
-        gameOverScreen.SetActive(true);
-        restartButton.gameObject.SetActive(true);
     }
 
     public void LevelOne()
@@ -103,7 +139,6 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene("LunaTheBat4");
     }
 
-    // Made this method public to call from a UI button
     public void ChangePaused()
     {
         paused = !paused;
@@ -115,4 +150,10 @@ public class GameManager : MonoBehaviour
     {
         helpScreen.SetActive(true);
     }
+
+    public float GetDifficultyMultiplier()
+    {
+        return difficultyMultiplier;
+    }
+
 }

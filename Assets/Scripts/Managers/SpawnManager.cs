@@ -14,39 +14,41 @@ public class SpawnManager : MonoBehaviour
     private PlayerController playerControllerScript;
     private GameManager gameManager;
 
-    // Start is called before the first frame update
+    // Adaptive Difficulty Variables
+    private float initialRepeatRate;
+
     void Start()
     {
-        InvokeRepeating("SpawnObstacle", startDelay, repeatRate); //repeating of obstacle spawn
-        InvokeRepeating("SpawnPowerUp", startDelay, repeatRate); //repeating of powerup spawn
+        initialRepeatRate = repeatRate; // Store initial repeat rate
+        InvokeRepeating("SpawnObstacle", startDelay, repeatRate);
+        InvokeRepeating("SpawnPowerUp", startDelay, repeatRate);
         playerControllerScript = GameObject.Find("Player").GetComponent<PlayerController>();
         gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
-
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
     }
 
     void SpawnObstacle()
     {
-        //initial spawn of obstacle
         if (playerControllerScript.gameOver == false && gameManager.isGameActive == true)
         {
-            Instantiate(obstaclePrefab, spawnPosObs, obstaclePrefab.transform.rotation); //spawns boxes
+            Instantiate(obstaclePrefab, spawnPosObs, obstaclePrefab.transform.rotation);
         }
-
     }
 
     void SpawnPowerUp()
     {
-        //initial spawn of powerup
         if (playerControllerScript.gameOver == false && gameManager.isGameActive == true)
         {
-            Instantiate(powerupPrefab, spawnPosPU, powerupPrefab.transform.rotation); //spawns powerup pumpkins
+            Instantiate(powerupPrefab, spawnPosPU, powerupPrefab.transform.rotation);
         }
+    }
+
+    // Adjust spawn rate based on difficulty
+    private void OnDifficultyChanged(float difficultyMultiplier)
+    {
+        repeatRate = initialRepeatRate / difficultyMultiplier; // Faster spawns as difficulty increases
+        CancelInvoke("SpawnObstacle");
+        CancelInvoke("SpawnPowerUp");
+        InvokeRepeating("SpawnObstacle", startDelay, repeatRate);
+        InvokeRepeating("SpawnPowerUp", startDelay, repeatRate);
     }
 }
