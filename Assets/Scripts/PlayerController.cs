@@ -40,9 +40,11 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // Handle projectile launching (Removed Input.GetKeyDown, now use Shoot() method)
-
-        // Handle jumping (Removed Input.GetKeyDown, now use Jump() method)
+        // Handle shooting with the Tab key
+        if (Input.GetKeyDown(KeyCode.Tab) && !gameOver)
+        {
+            Shoot();
+        }
     }
 
     // Method for Jumping (Call this from a UI Button)
@@ -58,7 +60,7 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    // Method for Shooting (Call this from a UI Button)
+    // Method for Shooting (Call this from a UI Button or Tab key)
     public void Shoot()
     {
         if (!canShoot || gameOver) return; // Prevent shooting if cooldown is active or game is over
@@ -66,7 +68,6 @@ public class PlayerController : MonoBehaviour
         LaunchProjectile();
         StartCoroutine(ShootCooldownRoutine()); // Start cooldown after shooting
     }
-
 
     private void LaunchProjectile()
     {
@@ -126,7 +127,6 @@ public class PlayerController : MonoBehaviour
         explosionParticle.Play();
         dirtParticle.Stop();
     }
-
 
     private void OnTriggerEnter(Collider other)
     {

@@ -1335,3 +1335,1674 @@
 [18/03/2025 17:23:45] Game Over!
 [18/03/2025 17:23:48] Game Restarted
 [18/03/2025 17:23:48] Game Started
+[18/03/2025 17:43:51] Game Started
+[18/03/2025 17:43:52] Score Updated: 0
+[18/03/2025 17:43:52] Lives Updated: 3
+[18/03/2025 17:43:52] Game Started
+[18/03/2025 17:43:52] Score Updated: 0
+[18/03/2025 17:43:52] Lives Updated: 3
+[18/03/2025 17:43:52] Game Started
+[18/03/2025 17:43:52] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:43:52] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:43:52] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:43:54] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:43:54] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:43:54] Score Updated: 1
+[18/03/2025 17:43:55] Score Updated: 11
+[18/03/2025 17:43:55] Adjusted Ghost Speed: 15.00
+[18/03/2025 17:43:56] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:43:56] Lives Updated: 4
+[18/03/2025 17:43:56] Score Updated: 12
+[18/03/2025 17:43:58] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:43:58] Score Updated: 13
+[18/03/2025 17:43:59] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:43:59] Score Updated: 23
+[18/03/2025 17:44:00] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:44:00] Score Updated: 24
+[18/03/2025 17:44:01] Adjusted Ghost Speed: 15.00
+[18/03/2025 17:44:01] Score Updated: 29
+[18/03/2025 17:44:01] Score Updated: 34
+[18/03/2025 17:44:01] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:44:01] Difficulty Increased: 1.1
+[18/03/2025 17:44:01] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:44:01] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:44:01] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:44:01] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:44:01] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:44:02] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:44:02] Score Updated: 35
+[18/03/2025 17:44:02] Lives Updated: 5
+[18/03/2025 17:44:03] Score Updated: 40
+[18/03/2025 17:44:03] Score Updated: 45
+[18/03/2025 17:44:03] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:44:04] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:44:04] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:44:04] Score Updated: 46
+[18/03/2025 17:44:04] Score Updated: 56
+[18/03/2025 17:44:06] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:44:06] Score Updated: 57
+[18/03/2025 17:44:06] Difficulty Increased: 1.2
+[18/03/2025 17:44:06] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:44:06] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:44:06] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:44:06] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:44:06] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:44:07] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:44:08] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:44:08] Lives Updated: 6
+[18/03/2025 17:44:08] Score Updated: 58
+[18/03/2025 17:44:09] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:44:09] Score Updated: 68
+[18/03/2025 17:44:10] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:44:10] Score Updated: 73
+[18/03/2025 17:44:10] Score Updated: 79
+[18/03/2025 17:44:10] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:44:10] Score Updated: 80
+[18/03/2025 17:44:10] Difficulty Increased: 1.3
+[18/03/2025 17:44:10] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:44:10] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:44:10] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:44:10] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:44:12] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:44:12] Score Updated: 81
+[18/03/2025 17:44:12] Score Updated: 86
+[18/03/2025 17:44:12] Score Updated: 92
+[18/03/2025 17:44:12] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:44:13] Adjusted Ghost Speed: 19.50
+[18/03/2025 17:44:14] Adjusted Enemy Speed: 19.50
+[18/03/2025 17:44:14] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:44:14] Lives Updated: 7
+[18/03/2025 17:44:14] Score Updated: 93
+[18/03/2025 17:44:14] Score Updated: 103
+[18/03/2025 17:44:16] Level 2 Loaded
+[18/03/2025 17:44:16] Score Updated: 0
+[18/03/2025 17:44:16] Lives Updated: 7
+[18/03/2025 17:44:16] Game Started
+[18/03/2025 17:44:16] Game Started
+[18/03/2025 17:44:18] Score Updated: 0
+[18/03/2025 17:44:18] Lives Updated: 3
+[18/03/2025 17:44:18] Game Started
+[18/03/2025 17:44:18] Score Updated: 0
+[18/03/2025 17:44:18] Lives Updated: 3
+[18/03/2025 17:44:18] Game Started
+[18/03/2025 17:44:18] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:44:18] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:44:18] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:44:18] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:44:18] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:44:18] Score Updated: 1
+[18/03/2025 17:44:19] Adjusted Ghost Speed: 15.00
+[18/03/2025 17:44:19] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:44:19] Score Updated: 11
+[18/03/2025 17:44:20] Score Updated: 12
+[18/03/2025 17:44:20] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:44:21] Score Updated: 13
+[18/03/2025 17:44:21] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:44:21] Score Updated: 18
+[18/03/2025 17:44:21] Score Updated: 23
+[18/03/2025 17:44:21] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:44:21] Difficulty Increased: 1.1
+[18/03/2025 17:44:21] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:44:21] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:44:21] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:44:21] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:44:21] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:44:21] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:44:21] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:44:22] Score Updated: 24
+[18/03/2025 17:44:22] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:44:22] Score Updated: 29
+[18/03/2025 17:44:22] Score Updated: 34
+[18/03/2025 17:44:22] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:44:23] Score Updated: 35
+[18/03/2025 17:44:23] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:44:23] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:44:23] Score Updated: 40
+[18/03/2025 17:44:23] Score Updated: 45
+[18/03/2025 17:44:23] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:44:23] Difficulty Increased: 1.2
+[18/03/2025 17:44:23] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:44:23] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:44:23] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:44:23] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:44:23] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:44:23] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:44:23] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:44:23] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:44:24] Score Updated: 46
+[18/03/2025 17:44:24] Score Updated: 56
+[18/03/2025 17:44:24] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:44:25] Score Updated: 57
+[18/03/2025 17:44:25] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:44:25] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:44:26] Score Updated: 58
+[18/03/2025 17:44:26] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:44:26] Lives Updated: 4
+[18/03/2025 17:44:27] Score Updated: 59
+[18/03/2025 17:44:27] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:44:28] Score Updated: 64
+[18/03/2025 17:44:28] Score Updated: 70
+[18/03/2025 17:44:28] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:44:28] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:44:28] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:44:28] Score Updated: 71
+[18/03/2025 17:44:28] Game Over!
+[18/03/2025 17:44:29] Score Updated: 81
+[18/03/2025 17:44:29] Difficulty Increased: 1.3
+[18/03/2025 17:44:29] Game Restarted
+[18/03/2025 17:44:29] Game Started
+[18/03/2025 17:44:31] Score Updated: 0
+[18/03/2025 17:44:31] Lives Updated: 3
+[18/03/2025 17:44:31] Game Started
+[18/03/2025 17:44:31] Score Updated: 0
+[18/03/2025 17:44:31] Lives Updated: 3
+[18/03/2025 17:44:31] Game Started
+[18/03/2025 17:44:31] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:44:31] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:44:31] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:44:31] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:44:31] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:44:31] Score Updated: 1
+[18/03/2025 17:44:32] Score Updated: 11
+[18/03/2025 17:44:32] Adjusted Ghost Speed: 15.00
+[18/03/2025 17:44:32] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:44:33] Score Updated: 12
+[18/03/2025 17:44:33] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:44:34] Lives Updated: 4
+[18/03/2025 17:44:34] Score Updated: 13
+[18/03/2025 17:44:34] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:44:35] Score Updated: 18
+[18/03/2025 17:44:35] Score Updated: 23
+[18/03/2025 17:44:35] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:44:35] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:44:36] Score Updated: 28
+[18/03/2025 17:44:36] Score Updated: 33
+[18/03/2025 17:44:36] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:44:36] Difficulty Increased: 1.1
+[18/03/2025 17:44:36] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:44:36] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:44:36] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:44:36] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:44:36] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:44:36] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:44:36] Score Updated: 34
+[18/03/2025 17:44:36] Game Over!
+[18/03/2025 17:44:37] Game Restarted
+[18/03/2025 17:44:37] Game Started
+[18/03/2025 17:44:39] Score Updated: 0
+[18/03/2025 17:44:39] Lives Updated: 3
+[18/03/2025 17:44:39] Game Started
+[18/03/2025 17:44:39] Score Updated: 0
+[18/03/2025 17:44:39] Lives Updated: 3
+[18/03/2025 17:44:39] Game Started
+[18/03/2025 17:44:39] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:44:39] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:44:39] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:44:39] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:44:40] Adjusted Ghost Speed: 15.00
+[18/03/2025 17:44:40] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:44:40] Score Updated: 10
+[18/03/2025 17:44:41] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:44:42] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:44:42] Score Updated: 11
+[18/03/2025 17:44:43] Score Updated: 12
+[18/03/2025 17:44:43] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:44:43] Score Updated: 17
+[18/03/2025 17:44:43] Score Updated: 22
+[18/03/2025 17:44:43] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:44:43] Difficulty Increased: 1.1
+[18/03/2025 17:44:43] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:44:43] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:44:43] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:44:43] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:44:43] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:44:43] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:44:43] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:44:44] Score Updated: 23
+[18/03/2025 17:44:44] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:44:44] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:44:45] Score Updated: 24
+[18/03/2025 17:44:45] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:44:45] Lives Updated: 2
+[18/03/2025 17:44:46] Score Updated: 25
+[18/03/2025 17:44:46] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:44:46] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:44:47] Score Updated: 26
+[18/03/2025 17:44:47] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:44:47] Score Updated: 27
+[18/03/2025 17:44:48] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:44:48] Score Updated: 28
+[18/03/2025 17:44:49] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:44:49] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:44:49] Score Updated: 29
+[18/03/2025 17:44:49] Difficulty Increased: 1.2
+[18/03/2025 17:44:49] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:44:49] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:44:49] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:44:49] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:44:49] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:44:49] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:44:49] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:44:49] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:44:49] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:44:49] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:44:50] Score Updated: 39
+[18/03/2025 17:44:50] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:44:51] Score Updated: 44
+[18/03/2025 17:44:51] Score Updated: 50
+[18/03/2025 17:44:51] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:44:51] Score Updated: 51
+[18/03/2025 17:44:51] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:44:51] Score Updated: 56
+[18/03/2025 17:44:51] Score Updated: 62
+[18/03/2025 17:44:51] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:44:51] Difficulty Increased: 1.3
+[18/03/2025 17:44:51] Adjusted Ghost Speed: 19.50
+[18/03/2025 17:44:51] Adjusted Ghost Speed: 19.50
+[18/03/2025 17:44:51] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:44:51] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:44:52] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:44:52] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:44:52] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:44:52] Score Updated: 63
+[18/03/2025 17:44:52] Adjusted Ghost Speed: 19.50
+[18/03/2025 17:44:52] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:44:52] Score Updated: 68
+[18/03/2025 17:44:52] Score Updated: 74
+[18/03/2025 17:44:52] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:44:53] Score Updated: 75
+[18/03/2025 17:44:53] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:44:53] Score Updated: 80
+[18/03/2025 17:44:53] Score Updated: 86
+[18/03/2025 17:44:53] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:44:53] Difficulty Increased: 1.4
+[18/03/2025 17:44:53] Adjusted Ghost Speed: 21.00
+[18/03/2025 17:44:53] Adjusted Ghost Speed: 21.00
+[18/03/2025 17:44:53] Adjusted Ghost Speed: 21.00
+[18/03/2025 17:44:53] Adjusted Power-Up Speed: 21.00
+[18/03/2025 17:44:53] Adjusted Power-Up Speed: 21.00
+[18/03/2025 17:44:53] Adjusted Scroll Speed: 7.00
+[18/03/2025 17:44:53] Adjusted Scroll Speed: 7.00
+[18/03/2025 17:44:53] Adjusted Scroll Speed: 7.00
+[18/03/2025 17:44:54] Score Updated: 87
+[18/03/2025 17:44:54] Adjusted Enemy Speed: 21.00
+[18/03/2025 17:44:54] Adjusted Power-Up Speed: 21.00
+[18/03/2025 17:44:54] Score Updated: 97
+[18/03/2025 17:44:55] Adjusted Power-Up Speed: 21.00
+[18/03/2025 17:44:55] Score Updated: 98
+[18/03/2025 17:44:55] Score Updated: 99
+[18/03/2025 17:44:55] Game Over!
+[18/03/2025 17:44:56] Game Restarted
+[18/03/2025 17:44:56] Game Started
+[18/03/2025 17:44:57] Score Updated: 0
+[18/03/2025 17:44:57] Lives Updated: 3
+[18/03/2025 17:44:57] Game Started
+[18/03/2025 17:44:57] Score Updated: 0
+[18/03/2025 17:44:57] Lives Updated: 3
+[18/03/2025 17:44:57] Game Started
+[18/03/2025 17:44:57] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:44:57] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:44:57] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:44:58] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:44:58] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:44:59] Score Updated: 1
+[18/03/2025 17:44:59] Adjusted Ghost Speed: 15.00
+[18/03/2025 17:44:59] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:44:59] Score Updated: 11
+[18/03/2025 17:45:00] Score Updated: 12
+[18/03/2025 17:45:00] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:45:01] Score Updated: 13
+[18/03/2025 17:45:01] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:45:02] Score Updated: 18
+[18/03/2025 17:45:02] Score Updated: 23
+[18/03/2025 17:45:02] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:45:02] Difficulty Increased: 1.1
+[18/03/2025 17:45:02] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:45:02] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:45:02] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:45:02] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:45:02] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:45:02] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:45:02] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:45:02] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:45:03] Score Updated: 28
+[18/03/2025 17:45:03] Score Updated: 33
+[18/03/2025 17:45:03] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:45:03] Score Updated: 34
+[18/03/2025 17:45:03] Game Over!
+[18/03/2025 17:45:17] Game Started
+[18/03/2025 17:45:25] Lives Updated: 2
+[18/03/2025 17:45:26] Lives Updated: 3
+[18/03/2025 17:45:30] Lives Updated: 2
+[18/03/2025 17:45:30] Difficulty Decreased: 1
+[18/03/2025 17:45:32] Lives Updated: 3
+[18/03/2025 17:45:35] Lives Updated: 2
+[18/03/2025 17:45:38] Lives Updated: 3
+[18/03/2025 17:45:38] Difficulty Decreased: 1
+[18/03/2025 17:45:40] Lives Updated: 2
+[18/03/2025 17:45:41] Score Updated: 10
+[18/03/2025 17:45:44] Lives Updated: 3
+[18/03/2025 17:45:45] Score Updated: 20
+[18/03/2025 17:49:58] Game Started
+[18/03/2025 17:50:01] Score Updated: 10
+[18/03/2025 17:50:04] Score Updated: 0
+[18/03/2025 17:50:04] Lives Updated: 3
+[18/03/2025 17:50:04] Game Started
+[18/03/2025 17:50:04] Score Updated: 0
+[18/03/2025 17:50:04] Lives Updated: 3
+[18/03/2025 17:50:04] Game Started
+[18/03/2025 17:50:04] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:50:04] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:50:04] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:50:04] Adjusted Ghost Speed: 15.00
+[18/03/2025 17:50:05] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:50:05] Lives Updated: 4
+[18/03/2025 17:50:05] Score Updated: 1
+[18/03/2025 17:50:05] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:50:06] Score Updated: 11
+[18/03/2025 17:50:06] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:50:07] Score Updated: 12
+[18/03/2025 17:50:07] Adjusted Ghost Speed: 15.00
+[18/03/2025 17:50:08] Score Updated: 17
+[18/03/2025 17:50:08] Score Updated: 22
+[18/03/2025 17:50:08] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:50:08] Difficulty Increased: 1.1
+[18/03/2025 17:50:08] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:50:08] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:50:08] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:50:08] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:50:08] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:50:08] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:50:09] Lives Updated: 5
+[18/03/2025 17:50:09] Score Updated: 23
+[18/03/2025 17:50:10] Score Updated: 28
+[18/03/2025 17:50:10] Score Updated: 33
+[18/03/2025 17:50:10] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:50:27] Game Started
+[18/03/2025 17:50:29] Score Updated: 0
+[18/03/2025 17:50:29] Lives Updated: 3
+[18/03/2025 17:50:29] Game Started
+[18/03/2025 17:50:29] Score Updated: 0
+[18/03/2025 17:50:29] Lives Updated: 3
+[18/03/2025 17:50:29] Game Started
+[18/03/2025 17:50:29] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:50:29] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:50:29] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:50:30] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:50:30] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:50:30] Score Updated: 1
+[18/03/2025 17:50:31] Score Updated: 11
+[18/03/2025 17:50:31] Adjusted Ghost Speed: 15.00
+[18/03/2025 17:50:32] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:50:32] Lives Updated: 4
+[18/03/2025 17:50:32] Score Updated: 12
+[18/03/2025 17:50:33] Score Updated: 17
+[18/03/2025 17:50:33] Score Updated: 22
+[18/03/2025 17:50:33] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:50:34] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:50:35] Score Updated: 23
+[18/03/2025 17:50:35] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:50:35] Score Updated: 33
+[18/03/2025 17:50:35] Difficulty Increased: 1.1
+[18/03/2025 17:50:35] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:50:35] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:50:35] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:50:35] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:50:35] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:50:35] Score Updated: 38
+[18/03/2025 17:50:35] Score Updated: 43
+[18/03/2025 17:50:35] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:50:36] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:50:37] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:50:37] Score Updated: 48
+[18/03/2025 17:50:37] Score Updated: 53
+[18/03/2025 17:50:37] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:50:37] Score Updated: 54
+[18/03/2025 17:50:37] Difficulty Increased: 1.2
+[18/03/2025 17:50:37] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:50:37] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:50:37] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:50:37] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:50:37] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:50:38] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:50:38] Lives Updated: 5
+[18/03/2025 17:50:39] Score Updated: 59
+[18/03/2025 17:50:39] Score Updated: 65
+[18/03/2025 17:50:39] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:50:39] Score Updated: 66
+[18/03/2025 17:50:40] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:50:40] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:50:40] Score Updated: 67
+[18/03/2025 17:50:41] Score Updated: 77
+[18/03/2025 17:50:41] Difficulty Increased: 1.3
+[18/03/2025 17:50:41] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:50:41] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:50:41] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:50:41] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:50:41] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:50:42] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:50:43] Adjusted Ghost Speed: 19.50
+[18/03/2025 17:50:43] Score Updated: 78
+[18/03/2025 17:50:43] Game Over!
+[18/03/2025 17:50:44] Game Restarted
+[18/03/2025 17:50:44] Game Started
+[18/03/2025 17:50:45] Score Updated: 0
+[18/03/2025 17:50:45] Lives Updated: 3
+[18/03/2025 17:50:45] Game Started
+[18/03/2025 17:50:45] Score Updated: 0
+[18/03/2025 17:50:45] Lives Updated: 3
+[18/03/2025 17:50:45] Game Started
+[18/03/2025 17:50:45] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:50:45] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:50:45] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:50:46] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:50:46] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:50:47] Score Updated: 1
+[18/03/2025 17:50:47] Adjusted Ghost Speed: 15.00
+[18/03/2025 17:50:48] Lives Updated: 2
+[18/03/2025 17:50:48] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:50:49] Score Updated: 2
+[18/03/2025 17:50:49] Score Updated: 7
+[18/03/2025 17:50:49] Score Updated: 12
+[18/03/2025 17:50:49] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:50:50] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:50:50] Score Updated: 13
+[18/03/2025 17:50:51] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:50:52] Score Updated: 18
+[18/03/2025 17:50:52] Score Updated: 23
+[18/03/2025 17:50:52] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:50:52] Difficulty Increased: 1.1
+[18/03/2025 17:50:52] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:50:52] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:50:52] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:50:52] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:50:52] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:50:52] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:50:52] Score Updated: 33
+[18/03/2025 17:50:52] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:50:53] Score Updated: 34
+[18/03/2025 17:50:53] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:50:54] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:50:54] Score Updated: 35
+[18/03/2025 17:50:55] Score Updated: 40
+[18/03/2025 17:50:55] Score Updated: 45
+[18/03/2025 17:50:55] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:50:55] Difficulty Increased: 1.2
+[18/03/2025 17:50:55] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:50:55] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:50:55] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:50:55] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:50:55] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:50:55] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:50:56] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:50:56] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:50:57] Score Updated: 55
+[18/03/2025 17:50:57] Score Updated: 60
+[18/03/2025 17:50:57] Score Updated: 66
+[18/03/2025 17:50:57] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:50:57] Score Updated: 67
+[18/03/2025 17:50:58] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:50:59] Score Updated: 72
+[18/03/2025 17:50:59] Score Updated: 78
+[18/03/2025 17:50:59] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:50:59] Difficulty Increased: 1.3
+[18/03/2025 17:50:59] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:50:59] Adjusted Ghost Speed: 19.50
+[18/03/2025 17:50:59] Adjusted Ghost Speed: 19.50
+[18/03/2025 17:50:59] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:50:59] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:50:59] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:50:59] Adjusted Ghost Speed: 19.50
+[18/03/2025 17:50:59] Score Updated: 79
+[18/03/2025 17:50:59] Game Over!
+[18/03/2025 17:51:00] Game Restarted
+[18/03/2025 17:51:00] Game Started
+[18/03/2025 17:51:01] Score Updated: 0
+[18/03/2025 17:51:01] Lives Updated: 3
+[18/03/2025 17:51:01] Game Started
+[18/03/2025 17:51:01] Score Updated: 0
+[18/03/2025 17:51:01] Lives Updated: 3
+[18/03/2025 17:51:01] Game Started
+[18/03/2025 17:51:01] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:51:01] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:51:01] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:51:03] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:51:03] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:51:04] Adjusted Ghost Speed: 15.00
+[18/03/2025 17:51:04] Score Updated: 1
+[18/03/2025 17:51:04] Lives Updated: 2
+[18/03/2025 17:51:05] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:51:05] Score Updated: 2
+[18/03/2025 17:51:06] Score Updated: 7
+[18/03/2025 17:51:06] Score Updated: 12
+[18/03/2025 17:51:06] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:51:07] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:51:08] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:51:08] Score Updated: 13
+[18/03/2025 17:51:08] Score Updated: 23
+[18/03/2025 17:51:08] Difficulty Increased: 1.1
+[18/03/2025 17:51:08] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:51:08] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:51:08] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:51:08] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:51:08] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:51:08] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:51:08] Score Updated: 28
+[18/03/2025 17:51:08] Score Updated: 33
+[18/03/2025 17:51:08] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:51:09] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:51:10] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:51:10] Score Updated: 34
+[18/03/2025 17:51:10] Score Updated: 39
+[18/03/2025 17:51:10] Score Updated: 44
+[18/03/2025 17:51:10] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:51:10] Difficulty Increased: 1.2
+[18/03/2025 17:51:10] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:51:10] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:51:10] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:51:10] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:51:10] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:51:10] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:51:11] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:51:11] Score Updated: 49
+[18/03/2025 17:51:11] Score Updated: 55
+[18/03/2025 17:51:11] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:51:12] Score Updated: 56
+[18/03/2025 17:51:13] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:51:13] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:51:13] Score Updated: 57
+[18/03/2025 17:51:13] Score Updated: 67
+[18/03/2025 17:51:13] Difficulty Increased: 1.3
+[18/03/2025 17:51:13] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:51:13] Adjusted Ghost Speed: 19.50
+[18/03/2025 17:51:13] Adjusted Ghost Speed: 19.50
+[18/03/2025 17:51:13] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:51:13] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:51:13] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:51:13] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:51:15] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:51:15] Score Updated: 68
+[18/03/2025 17:51:16] Adjusted Ghost Speed: 19.50
+[18/03/2025 17:51:17] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:51:17] Score Updated: 73
+[18/03/2025 17:51:17] Score Updated: 79
+[18/03/2025 17:51:17] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:51:17] Score Updated: 80
+[18/03/2025 17:51:18] Adjusted Enemy Speed: 19.50
+[18/03/2025 17:51:18] Score Updated: 90
+[18/03/2025 17:51:18] Difficulty Increased: 1.4
+[18/03/2025 17:51:18] Adjusted Scroll Speed: 7.00
+[18/03/2025 17:51:18] Adjusted Ghost Speed: 21.00
+[18/03/2025 17:51:18] Adjusted Ghost Speed: 21.00
+[18/03/2025 17:51:18] Adjusted Ghost Speed: 21.00
+[18/03/2025 17:51:18] Adjusted Power-Up Speed: 21.00
+[18/03/2025 17:51:18] Adjusted Scroll Speed: 7.00
+[18/03/2025 17:51:18] Adjusted Scroll Speed: 7.00
+[18/03/2025 17:51:19] Adjusted Power-Up Speed: 21.00
+[18/03/2025 17:51:19] Score Updated: 95
+[18/03/2025 17:51:19] Score Updated: 102
+[18/03/2025 17:51:19] Power-Up Collected! Score Increased by: 7
+[18/03/2025 17:51:20] Score Updated: 103
+[18/03/2025 17:51:21] Level 2 Loaded
+[18/03/2025 17:51:21] Score Updated: 0
+[18/03/2025 17:51:21] Lives Updated: 2
+[18/03/2025 17:51:21] Game Started
+[18/03/2025 17:51:21] Game Started
+[18/03/2025 17:51:22] Score Updated: 0
+[18/03/2025 17:51:22] Lives Updated: 3
+[18/03/2025 17:51:22] Game Started
+[18/03/2025 17:51:22] Score Updated: 0
+[18/03/2025 17:51:22] Lives Updated: 3
+[18/03/2025 17:51:22] Game Started
+[18/03/2025 17:51:22] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:51:22] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:51:22] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:51:23] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:51:23] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:51:24] Score Updated: 1
+[18/03/2025 17:51:24] Adjusted Ghost Speed: 15.00
+[18/03/2025 17:51:24] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:51:24] Score Updated: 11
+[18/03/2025 17:51:25] Score Updated: 12
+[18/03/2025 17:51:25] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:51:26] Score Updated: 13
+[18/03/2025 17:51:26] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:51:26] Score Updated: 18
+[18/03/2025 17:51:26] Score Updated: 23
+[18/03/2025 17:51:26] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:51:26] Difficulty Increased: 1.1
+[18/03/2025 17:51:26] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:51:26] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:51:26] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:51:26] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:51:26] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:51:26] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:51:26] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:51:27] Score Updated: 24
+[18/03/2025 17:51:27] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:51:27] Score Updated: 29
+[18/03/2025 17:51:27] Score Updated: 34
+[18/03/2025 17:51:27] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:51:27] Score Updated: 35
+[18/03/2025 17:51:28] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:51:28] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:51:28] Score Updated: 40
+[18/03/2025 17:51:28] Score Updated: 45
+[18/03/2025 17:51:28] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:51:28] Difficulty Increased: 1.2
+[18/03/2025 17:51:28] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:51:28] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:51:28] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:51:28] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:51:28] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:51:28] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:51:28] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:51:28] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:51:28] Score Updated: 46
+[18/03/2025 17:51:29] Score Updated: 56
+[18/03/2025 17:51:29] Score Updated: 61
+[18/03/2025 17:51:29] Score Updated: 67
+[18/03/2025 17:51:29] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:51:29] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:51:30] Score Updated: 72
+[18/03/2025 17:51:30] Score Updated: 78
+[18/03/2025 17:51:30] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:51:30] Score Updated: 79
+[18/03/2025 17:51:30] Difficulty Increased: 1.3
+[18/03/2025 17:51:30] Adjusted Ghost Speed: 19.50
+[18/03/2025 17:51:30] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:51:30] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:51:30] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:51:30] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:51:30] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:51:30] Adjusted Ghost Speed: 19.50
+[18/03/2025 17:51:30] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:51:31] Score Updated: 84
+[18/03/2025 17:51:31] Score Updated: 90
+[18/03/2025 17:51:31] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:51:31] Score Updated: 91
+[18/03/2025 17:51:31] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:51:31] Score Updated: 96
+[18/03/2025 17:51:31] Score Updated: 102
+[18/03/2025 17:51:31] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:51:31] Difficulty Increased: 1.4
+[18/03/2025 17:51:31] Adjusted Ghost Speed: 21.00
+[18/03/2025 17:51:31] Adjusted Ghost Speed: 21.00
+[18/03/2025 17:51:31] Adjusted Power-Up Speed: 21.00
+[18/03/2025 17:51:31] Adjusted Power-Up Speed: 21.00
+[18/03/2025 17:51:32] Adjusted Scroll Speed: 7.00
+[18/03/2025 17:51:32] Adjusted Scroll Speed: 7.00
+[18/03/2025 17:51:32] Adjusted Scroll Speed: 7.00
+[18/03/2025 17:51:32] Adjusted Power-Up Speed: 21.00
+[18/03/2025 17:51:32] Score Updated: 103
+[18/03/2025 17:51:33] Score Updated: 104
+[18/03/2025 17:51:33] Adjusted Enemy Speed: 21.00
+[18/03/2025 17:51:33] Adjusted Power-Up Speed: 21.00
+[18/03/2025 17:51:33] Score Updated: 109
+[18/03/2025 17:51:33] Score Updated: 116
+[18/03/2025 17:51:33] Power-Up Collected! Score Increased by: 7
+[18/03/2025 17:51:34] Score Updated: 126
+[18/03/2025 17:51:34] Difficulty Increased: 1.5
+[18/03/2025 17:51:34] Adjusted Ghost Speed: 22.50
+[18/03/2025 17:51:34] Adjusted Ghost Speed: 22.50
+[18/03/2025 17:51:34] Adjusted Power-Up Speed: 22.50
+[18/03/2025 17:51:34] Adjusted Power-Up Speed: 22.50
+[18/03/2025 17:51:34] Adjusted Scroll Speed: 7.50
+[18/03/2025 17:51:34] Adjusted Scroll Speed: 7.50
+[18/03/2025 17:51:34] Adjusted Scroll Speed: 7.50
+[18/03/2025 17:51:34] Adjusted Power-Up Speed: 22.50
+[18/03/2025 17:51:34] Score Updated: 127
+[18/03/2025 17:51:34] Game Over!
+[18/03/2025 17:51:35] Game Restarted
+[18/03/2025 17:51:36] Game Started
+[18/03/2025 17:51:36] Score Updated: 0
+[18/03/2025 17:51:36] Lives Updated: 3
+[18/03/2025 17:51:36] Game Started
+[18/03/2025 17:51:36] Score Updated: 0
+[18/03/2025 17:51:36] Lives Updated: 3
+[18/03/2025 17:51:36] Game Started
+[18/03/2025 17:51:36] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:51:36] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:51:36] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:51:38] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:51:38] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:51:38] Score Updated: 1
+[18/03/2025 17:51:38] Score Updated: 11
+[18/03/2025 17:51:39] Adjusted Ghost Speed: 15.00
+[18/03/2025 17:51:39] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:51:39] Score Updated: 12
+[18/03/2025 17:51:40] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:51:40] Lives Updated: 4
+[18/03/2025 17:51:40] Score Updated: 13
+[18/03/2025 17:51:41] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:51:41] Score Updated: 18
+[18/03/2025 17:51:41] Score Updated: 23
+[18/03/2025 17:51:41] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:51:41] Score Updated: 24
+[18/03/2025 17:51:42] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:51:42] Score Updated: 29
+[18/03/2025 17:51:42] Score Updated: 34
+[18/03/2025 17:51:42] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:51:42] Difficulty Increased: 1.1
+[18/03/2025 17:51:42] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:51:42] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:51:42] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:51:42] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:51:42] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:51:42] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:51:42] Score Updated: 35
+[18/03/2025 17:51:43] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:51:43] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:51:43] Score Updated: 45
+[18/03/2025 17:51:43] Score Updated: 46
+[18/03/2025 17:51:44] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:51:44] Score Updated: 47
+[18/03/2025 17:51:45] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:51:45] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:51:45] Score Updated: 52
+[18/03/2025 17:51:45] Score Updated: 57
+[18/03/2025 17:51:45] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:51:45] Difficulty Increased: 1.2
+[18/03/2025 17:51:45] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:51:45] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:51:45] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:51:45] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:51:45] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:51:45] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:51:45] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:51:45] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:51:45] Score Updated: 58
+[18/03/2025 17:51:45] Score Updated: 63
+[18/03/2025 17:51:45] Score Updated: 69
+[18/03/2025 17:51:45] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:51:46] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:51:46] Lives Updated: 5
+[18/03/2025 17:51:46] Score Updated: 74
+[18/03/2025 17:51:46] Score Updated: 80
+[18/03/2025 17:51:46] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:51:46] Score Updated: 81
+[18/03/2025 17:51:47] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:51:47] Score Updated: 86
+[18/03/2025 17:51:47] Score Updated: 92
+[18/03/2025 17:51:47] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:51:47] Difficulty Increased: 1.3
+[18/03/2025 17:51:47] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:51:47] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:51:47] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:51:47] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:51:47] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:51:48] Adjusted Enemy Speed: 19.50
+[18/03/2025 17:51:48] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:51:48] Score Updated: 93
+[18/03/2025 17:51:48] Score Updated: 103
+[18/03/2025 17:51:49] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:51:49] Score Updated: 108
+[18/03/2025 17:51:49] Score Updated: 114
+[18/03/2025 17:51:49] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:51:50] Score Updated: 115
+[18/03/2025 17:51:50] Difficulty Increased: 1.4
+[18/03/2025 17:51:50] Adjusted Power-Up Speed: 21.00
+[18/03/2025 17:51:50] Adjusted Power-Up Speed: 21.00
+[18/03/2025 17:51:50] Adjusted Scroll Speed: 7.00
+[18/03/2025 17:51:50] Adjusted Scroll Speed: 7.00
+[18/03/2025 17:51:50] Adjusted Scroll Speed: 7.00
+[18/03/2025 17:51:50] Adjusted Power-Up Speed: 21.00
+[18/03/2025 17:51:50] Score Updated: 120
+[18/03/2025 17:51:50] Score Updated: 127
+[18/03/2025 17:51:50] Power-Up Collected! Score Increased by: 7
+[18/03/2025 17:51:50] Score Updated: 128
+[18/03/2025 17:51:51] Adjusted Ghost Speed: 21.00
+[18/03/2025 17:51:51] Adjusted Power-Up Speed: 21.00
+[18/03/2025 17:51:51] Score Updated: 129
+[18/03/2025 17:51:52] Adjusted Power-Up Speed: 21.00
+[18/03/2025 17:51:52] Score Updated: 130
+[18/03/2025 17:51:52] Difficulty Increased: 1.5
+[18/03/2025 17:51:52] Adjusted Power-Up Speed: 22.50
+[18/03/2025 17:51:52] Adjusted Ghost Speed: 22.50
+[18/03/2025 17:51:52] Adjusted Power-Up Speed: 22.50
+[18/03/2025 17:51:52] Adjusted Power-Up Speed: 22.50
+[18/03/2025 17:51:52] Adjusted Scroll Speed: 7.50
+[18/03/2025 17:51:52] Adjusted Scroll Speed: 7.50
+[18/03/2025 17:51:52] Adjusted Scroll Speed: 7.50
+[18/03/2025 17:51:53] Adjusted Enemy Speed: 22.50
+[18/03/2025 17:51:53] Adjusted Power-Up Speed: 22.50
+[18/03/2025 17:51:53] Score Updated: 140
+[18/03/2025 17:51:54] Score Updated: 141
+[18/03/2025 17:51:54] Adjusted Power-Up Speed: 22.50
+[18/03/2025 17:51:54] Score Updated: 142
+[18/03/2025 17:51:55] Adjusted Power-Up Speed: 22.50
+[18/03/2025 17:51:55] Score Updated: 143
+[18/03/2025 17:51:56] Adjusted Power-Up Speed: 22.50
+[18/03/2025 17:51:56] Score Updated: 144
+[18/03/2025 17:51:56] Difficulty Increased: 1.6
+[18/03/2025 17:51:56] Adjusted Ghost Speed: 24.00
+[18/03/2025 17:51:56] Adjusted Power-Up Speed: 24.00
+[18/03/2025 17:51:56] Adjusted Power-Up Speed: 24.00
+[18/03/2025 17:51:56] Adjusted Power-Up Speed: 24.00
+[18/03/2025 17:51:56] Adjusted Scroll Speed: 8.00
+[18/03/2025 17:51:56] Adjusted Scroll Speed: 8.00
+[18/03/2025 17:51:56] Adjusted Scroll Speed: 8.00
+[18/03/2025 17:51:57] Adjusted Ghost Speed: 24.00
+[18/03/2025 17:51:57] Adjusted Power-Up Speed: 24.00
+[18/03/2025 17:51:57] Score Updated: 149
+[18/03/2025 17:51:57] Score Updated: 157
+[18/03/2025 17:51:57] Power-Up Collected! Score Increased by: 8
+[18/03/2025 17:51:57] Score Updated: 158
+[18/03/2025 17:51:58] Adjusted Enemy Speed: 24.00
+[18/03/2025 17:51:58] Adjusted Power-Up Speed: 24.00
+[18/03/2025 17:51:58] Score Updated: 163
+[18/03/2025 17:51:58] Score Updated: 171
+[18/03/2025 17:51:58] Power-Up Collected! Score Increased by: 8
+[18/03/2025 17:51:58] Difficulty Increased: 1.7
+[18/03/2025 17:51:58] Adjusted Ghost Speed: 25.50
+[18/03/2025 17:51:58] Adjusted Ghost Speed: 25.50
+[18/03/2025 17:51:58] Adjusted Power-Up Speed: 25.50
+[18/03/2025 17:51:58] Adjusted Enemy Speed: 25.50
+[18/03/2025 17:51:58] Adjusted Power-Up Speed: 25.50
+[18/03/2025 17:51:58] Adjusted Scroll Speed: 8.50
+[18/03/2025 17:51:58] Adjusted Scroll Speed: 8.50
+[18/03/2025 17:51:58] Adjusted Scroll Speed: 8.50
+[18/03/2025 17:51:58] Score Updated: 181
+[18/03/2025 17:51:58] Score Updated: 182
+[18/03/2025 17:51:59] Score Updated: 187
+[18/03/2025 17:51:59] Score Updated: 195
+[18/03/2025 17:51:59] Power-Up Collected! Score Increased by: 8
+[18/03/2025 17:51:59] Adjusted Power-Up Speed: 25.50
+[18/03/2025 17:51:59] Score Updated: 196
+[18/03/2025 17:51:59] Difficulty Increased: 1.8
+[18/03/2025 17:51:59] Adjusted Ghost Speed: 27.00
+[18/03/2025 17:51:59] Adjusted Ghost Speed: 27.00
+[18/03/2025 17:51:59] Adjusted Power-Up Speed: 27.00
+[18/03/2025 17:51:59] Adjusted Power-Up Speed: 27.00
+[18/03/2025 17:51:59] Adjusted Scroll Speed: 9.00
+[18/03/2025 17:51:59] Adjusted Scroll Speed: 9.00
+[18/03/2025 17:51:59] Adjusted Scroll Speed: 9.00
+[18/03/2025 17:51:59] Score Updated: 201
+[18/03/2025 17:51:59] Score Updated: 210
+[18/03/2025 17:51:59] Power-Up Collected! Score Increased by: 9
+[18/03/2025 17:52:02] Level 3 Loaded
+[18/03/2025 17:52:02] Score Updated: 0
+[18/03/2025 17:52:02] Lives Updated: 5
+[18/03/2025 17:52:02] Game Started
+[18/03/2025 17:52:02] Game Started
+[18/03/2025 17:52:03] Score Updated: 0
+[18/03/2025 17:52:03] Lives Updated: 3
+[18/03/2025 17:52:03] Game Started
+[18/03/2025 17:52:03] Score Updated: 0
+[18/03/2025 17:52:03] Lives Updated: 3
+[18/03/2025 17:52:03] Game Started
+[18/03/2025 17:52:03] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:52:03] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:52:03] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:52:04] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:04] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:52:04] Score Updated: 1
+[18/03/2025 17:52:04] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:05] Score Updated: 11
+[18/03/2025 17:52:05] Adjusted Ghost Speed: 15.00
+[18/03/2025 17:52:05] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:05] Score Updated: 21
+[18/03/2025 17:52:05] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:06] Score Updated: 31
+[18/03/2025 17:52:06] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:52:06] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:06] Lives Updated: 4
+[18/03/2025 17:52:06] Score Updated: 41
+[18/03/2025 17:52:06] Adjusted Ghost Speed: 15.00
+[18/03/2025 17:52:06] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:07] Score Updated: 42
+[18/03/2025 17:52:07] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:07] Score Updated: 47
+[18/03/2025 17:52:07] Score Updated: 52
+[18/03/2025 17:52:07] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:52:07] Score Updated: 62
+[18/03/2025 17:52:07] Difficulty Increased: 1.1
+[18/03/2025 17:52:07] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:52:07] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:52:07] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:07] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:07] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:52:07] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:52:07] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:52:07] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:07] Lives Updated: 3
+[18/03/2025 17:52:08] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:52:08] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:52:08] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:08] Score Updated: 72
+[18/03/2025 17:52:08] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:08] Score Updated: 82
+[18/03/2025 17:52:09] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:09] Score Updated: 87
+[18/03/2025 17:52:09] Score Updated: 92
+[18/03/2025 17:52:09] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:52:09] Score Updated: 93
+[18/03/2025 17:52:09] Game Over!
+[18/03/2025 17:52:09] Difficulty Increased: 1.2
+[18/03/2025 17:52:09] Score Updated: 103
+[18/03/2025 17:52:10] Game Restarted
+[18/03/2025 17:52:10] Game Started
+[18/03/2025 17:52:11] Score Updated: 0
+[18/03/2025 17:52:11] Lives Updated: 3
+[18/03/2025 17:52:11] Game Started
+[18/03/2025 17:52:11] Score Updated: 0
+[18/03/2025 17:52:11] Lives Updated: 3
+[18/03/2025 17:52:11] Game Started
+[18/03/2025 17:52:11] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:52:11] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:52:11] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:52:12] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:12] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:52:12] Score Updated: 1
+[18/03/2025 17:52:13] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:13] Score Updated: 11
+[18/03/2025 17:52:13] Adjusted Ghost Speed: 15.00
+[18/03/2025 17:52:13] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:13] Score Updated: 21
+[18/03/2025 17:52:14] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:14] Score Updated: 31
+[18/03/2025 17:52:14] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:52:14] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:14] Score Updated: 41
+[18/03/2025 17:52:14] Difficulty Increased: 1.1
+[18/03/2025 17:52:14] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:52:14] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:52:14] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:52:14] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:14] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:52:14] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:52:14] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:52:14] Lives Updated: 4
+[18/03/2025 17:52:15] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:52:15] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:15] Score Updated: 42
+[18/03/2025 17:52:15] Score Updated: 52
+[18/03/2025 17:52:15] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:15] Score Updated: 57
+[18/03/2025 17:52:15] Score Updated: 62
+[18/03/2025 17:52:15] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:52:16] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:16] Score Updated: 72
+[18/03/2025 17:52:16] Difficulty Increased: 1.2
+[18/03/2025 17:52:16] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:52:16] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:52:16] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:52:16] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:52:16] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:52:16] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:52:16] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:52:16] Lives Updated: 5
+[18/03/2025 17:52:16] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:52:16] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:52:16] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:52:16] Score Updated: 82
+[18/03/2025 17:52:17] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:52:17] Score Updated: 92
+[18/03/2025 17:52:17] Lives Updated: 4
+[18/03/2025 17:52:17] Score Updated: 97
+[18/03/2025 17:52:17] Score Updated: 103
+[18/03/2025 17:52:17] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:52:17] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:52:17] Lives Updated: 3
+[18/03/2025 17:52:17] Score Updated: 104
+[18/03/2025 17:52:17] Game Over!
+[18/03/2025 17:52:18] Game Restarted
+[18/03/2025 17:52:18] Game Started
+[18/03/2025 17:52:19] Score Updated: 0
+[18/03/2025 17:52:19] Lives Updated: 3
+[18/03/2025 17:52:19] Game Started
+[18/03/2025 17:52:19] Score Updated: 0
+[18/03/2025 17:52:19] Lives Updated: 3
+[18/03/2025 17:52:19] Game Started
+[18/03/2025 17:52:19] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:52:19] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:52:19] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:52:20] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:20] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:52:20] Score Updated: 1
+[18/03/2025 17:52:21] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:21] Score Updated: 11
+[18/03/2025 17:52:21] Adjusted Ghost Speed: 15.00
+[18/03/2025 17:52:21] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:21] Score Updated: 21
+[18/03/2025 17:52:22] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:22] Score Updated: 31
+[18/03/2025 17:52:22] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:52:22] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:22] Score Updated: 41
+[18/03/2025 17:52:22] Difficulty Increased: 1.1
+[18/03/2025 17:52:22] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:52:22] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:52:22] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:52:22] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:23] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:52:23] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:52:23] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:52:23] Lives Updated: 4
+[18/03/2025 17:52:23] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:52:23] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:23] Score Updated: 42
+[18/03/2025 17:52:23] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:23] Score Updated: 52
+[18/03/2025 17:52:24] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:24] Score Updated: 62
+[18/03/2025 17:52:24] Lives Updated: 5
+[18/03/2025 17:52:24] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:52:24] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:52:24] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:24] Score Updated: 72
+[18/03/2025 17:52:25] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:25] Lives Updated: 4
+[18/03/2025 17:52:25] Score Updated: 77
+[18/03/2025 17:52:25] Score Updated: 82
+[18/03/2025 17:52:25] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:52:25] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:25] Score Updated: 92
+[18/03/2025 17:52:26] Score Updated: 93
+[18/03/2025 17:52:26] Game Over!
+[18/03/2025 17:52:27] Game Restarted
+[18/03/2025 17:52:27] Game Started
+[18/03/2025 17:52:27] Score Updated: 0
+[18/03/2025 17:52:27] Lives Updated: 3
+[18/03/2025 17:52:27] Game Started
+[18/03/2025 17:52:27] Score Updated: 0
+[18/03/2025 17:52:27] Lives Updated: 3
+[18/03/2025 17:52:27] Game Started
+[18/03/2025 17:52:27] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:52:27] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:52:27] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:52:29] Score Updated: 10
+[18/03/2025 17:52:29] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:52:29] Score Updated: 11
+[18/03/2025 17:52:29] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:29] Score Updated: 21
+[18/03/2025 17:52:30] Adjusted Ghost Speed: 15.00
+[18/03/2025 17:52:30] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:30] Score Updated: 31
+[18/03/2025 17:52:30] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:30] Score Updated: 41
+[18/03/2025 17:52:30] Difficulty Increased: 1.1
+[18/03/2025 17:52:30] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:52:30] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:52:30] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:52:30] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:52:30] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:52:31] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:52:31] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:31] Score Updated: 42
+[18/03/2025 17:52:31] Lives Updated: 4
+[18/03/2025 17:52:31] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:52:31] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:31] Score Updated: 52
+[18/03/2025 17:52:32] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:32] Score Updated: 62
+[18/03/2025 17:52:32] Score Updated: 67
+[18/03/2025 17:52:32] Score Updated: 72
+[18/03/2025 17:52:32] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:52:32] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:32] Score Updated: 82
+[18/03/2025 17:52:32] Difficulty Increased: 1.2
+[18/03/2025 17:52:32] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:52:32] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:52:32] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:52:32] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:52:32] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:52:32] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:52:32] Lives Updated: 5
+[18/03/2025 17:52:33] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:52:33] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:52:33] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:52:33] Score Updated: 92
+[18/03/2025 17:52:33] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:52:33] Score Updated: 93
+[18/03/2025 17:52:34] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:52:34] Score Updated: 103
+[18/03/2025 17:52:34] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:52:34] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:52:34] Score Updated: 113
+[18/03/2025 17:52:35] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:52:35] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:52:35] Score Updated: 123
+[18/03/2025 17:52:35] Difficulty Increased: 1.3
+[18/03/2025 17:52:35] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:52:35] Adjusted Ghost Speed: 19.50
+[18/03/2025 17:52:35] Adjusted Ghost Speed: 19.50
+[18/03/2025 17:52:35] Adjusted Enemy Speed: 19.50
+[18/03/2025 17:52:35] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:52:35] Adjusted Enemy Speed: 19.50
+[18/03/2025 17:52:35] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:52:35] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:52:35] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:52:35] Adjusted Enemy Speed: 19.50
+[18/03/2025 17:52:35] Score Updated: 133
+[18/03/2025 17:52:36] Adjusted Ghost Speed: 19.50
+[18/03/2025 17:52:36] Adjusted Enemy Speed: 19.50
+[18/03/2025 17:52:36] Lives Updated: 4
+[18/03/2025 17:52:36] Score Updated: 143
+[18/03/2025 17:52:36] Adjusted Enemy Speed: 19.50
+[18/03/2025 17:52:37] Score Updated: 153
+[18/03/2025 17:52:37] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:52:37] Adjusted Enemy Speed: 19.50
+[18/03/2025 17:52:37] Lives Updated: 5
+[18/03/2025 17:52:37] Score Updated: 158
+[18/03/2025 17:52:37] Score Updated: 164
+[18/03/2025 17:52:37] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:52:37] Adjusted Ghost Speed: 19.50
+[18/03/2025 17:52:37] Adjusted Enemy Speed: 19.50
+[18/03/2025 17:52:37] Score Updated: 174
+[18/03/2025 17:52:37] Lives Updated: 4
+[18/03/2025 17:52:38] Adjusted Enemy Speed: 19.50
+[18/03/2025 17:52:38] Lives Updated: 3
+[18/03/2025 17:52:38] Score Updated: 175
+[18/03/2025 17:52:38] Game Over!
+[18/03/2025 17:52:38] Score Updated: 185
+[18/03/2025 17:52:39] Game Restarted
+[18/03/2025 17:52:39] Game Started
+[18/03/2025 17:52:40] Score Updated: 0
+[18/03/2025 17:52:40] Lives Updated: 3
+[18/03/2025 17:52:40] Game Started
+[18/03/2025 17:52:40] Score Updated: 0
+[18/03/2025 17:52:40] Lives Updated: 3
+[18/03/2025 17:52:40] Game Started
+[18/03/2025 17:52:40] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:52:40] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:52:40] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:52:41] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:41] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:52:41] Score Updated: 1
+[18/03/2025 17:52:41] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:42] Score Updated: 11
+[18/03/2025 17:52:42] Adjusted Ghost Speed: 15.00
+[18/03/2025 17:52:42] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:42] Score Updated: 21
+[18/03/2025 17:52:42] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:43] Score Updated: 31
+[18/03/2025 17:52:43] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:52:43] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:43] Score Updated: 41
+[18/03/2025 17:52:43] Difficulty Increased: 1.1
+[18/03/2025 17:52:43] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:52:43] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:52:43] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:52:43] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:43] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:52:43] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:52:43] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:52:43] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:52:43] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:44] Score Updated: 42
+[18/03/2025 17:52:44] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:44] Score Updated: 52
+[18/03/2025 17:52:44] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:44] Score Updated: 62
+[18/03/2025 17:52:45] Lives Updated: 4
+[18/03/2025 17:52:45] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:52:45] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:52:45] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:45] Score Updated: 72
+[18/03/2025 17:52:45] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:46] Score Updated: 82
+[18/03/2025 17:52:46] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:46] Score Updated: 87
+[18/03/2025 17:52:46] Score Updated: 92
+[18/03/2025 17:52:46] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:52:46] Score Updated: 93
+[18/03/2025 17:52:46] Difficulty Increased: 1.2
+[18/03/2025 17:52:46] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:52:46] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:52:46] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:52:46] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:52:46] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:52:46] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:52:46] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:52:46] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:52:46] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:52:46] Lives Updated: 3
+[18/03/2025 17:52:46] Lives Updated: 4
+[18/03/2025 17:52:46] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:52:46] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:52:47] Lives Updated: 3
+[18/03/2025 17:52:47] Score Updated: 103
+[18/03/2025 17:52:47] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:52:47] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:52:47] Lives Updated: 2
+[18/03/2025 17:52:47] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:52:47] Score Updated: 113
+[18/03/2025 17:52:48] Score Updated: 118
+[18/03/2025 17:52:48] Score Updated: 124
+[18/03/2025 17:52:48] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:52:48] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:52:48] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:52:48] Score Updated: 134
+[18/03/2025 17:52:48] Game Over!
+[18/03/2025 17:52:50] Lives Updated: 1
+[18/03/2025 17:52:50] Game Restarted
+[18/03/2025 17:52:50] Game Started
+[18/03/2025 17:52:50] Score Updated: 0
+[18/03/2025 17:52:50] Lives Updated: 3
+[18/03/2025 17:52:50] Game Started
+[18/03/2025 17:52:50] Score Updated: 0
+[18/03/2025 17:52:50] Lives Updated: 3
+[18/03/2025 17:52:50] Game Started
+[18/03/2025 17:52:50] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:52:50] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:52:50] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:52:52] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:52] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:52:52] Score Updated: 1
+[18/03/2025 17:52:52] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:52] Score Updated: 11
+[18/03/2025 17:52:53] Adjusted Ghost Speed: 15.00
+[18/03/2025 17:52:53] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:53] Score Updated: 21
+[18/03/2025 17:52:53] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:53] Score Updated: 31
+[18/03/2025 17:52:54] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:52:54] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:52:54] Score Updated: 41
+[18/03/2025 17:52:54] Difficulty Increased: 1.1
+[18/03/2025 17:52:54] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:52:54] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:52:54] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:52:54] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:54] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:52:54] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:52:54] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:52:54] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:52:54] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:54] Score Updated: 42
+[18/03/2025 17:52:55] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:55] Score Updated: 52
+[18/03/2025 17:52:55] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:55] Score Updated: 62
+[18/03/2025 17:52:56] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:52:56] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:52:56] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:56] Score Updated: 72
+[18/03/2025 17:52:56] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:52:56] Score Updated: 82
+[18/03/2025 17:52:56] Difficulty Increased: 1.2
+[18/03/2025 17:52:56] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:52:56] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:52:56] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:52:56] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:52:56] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:52:56] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:52:56] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:52:56] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:52:56] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:52:56] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:52:57] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:52:57] Score Updated: 87
+[18/03/2025 17:52:57] Score Updated: 93
+[18/03/2025 17:52:57] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:52:57] Game Over!
+[18/03/2025 17:52:57] Lives Updated: 2
+[18/03/2025 17:52:57] Lives Updated: 3
+[18/03/2025 17:52:58] Game Restarted
+[18/03/2025 17:52:58] Game Started
+[18/03/2025 17:52:59] Score Updated: 0
+[18/03/2025 17:52:59] Lives Updated: 3
+[18/03/2025 17:52:59] Game Started
+[18/03/2025 17:52:59] Score Updated: 0
+[18/03/2025 17:52:59] Lives Updated: 3
+[18/03/2025 17:52:59] Game Started
+[18/03/2025 17:52:59] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:52:59] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:52:59] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:53:00] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:53:00] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:53:00] Score Updated: 10
+[18/03/2025 17:53:00] Score Updated: 11
+[18/03/2025 17:53:01] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:53:01] Score Updated: 21
+[18/03/2025 17:53:01] Adjusted Ghost Speed: 15.00
+[18/03/2025 17:53:01] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:53:01] Score Updated: 31
+[18/03/2025 17:53:02] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:53:02] Score Updated: 41
+[18/03/2025 17:53:02] Difficulty Increased: 1.1
+[18/03/2025 17:53:02] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:53:02] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:53:02] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:53:02] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:53:02] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:53:02] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:53:02] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:53:02] Score Updated: 42
+[18/03/2025 17:53:02] Lives Updated: 4
+[18/03/2025 17:53:03] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:53:03] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:53:03] Score Updated: 52
+[18/03/2025 17:53:03] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:53:03] Score Updated: 62
+[18/03/2025 17:53:04] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:53:04] Score Updated: 72
+[18/03/2025 17:53:04] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:53:04] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:53:04] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:53:04] Score Updated: 82
+[18/03/2025 17:53:05] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:53:05] Score Updated: 83
+[18/03/2025 17:53:05] Difficulty Increased: 1.2
+[18/03/2025 17:53:05] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:53:05] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:53:05] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:53:05] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:53:05] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:53:05] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:53:05] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:53:05] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:53:05] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:53:05] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:53:05] Score Updated: 93
+[18/03/2025 17:53:06] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:53:06] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:53:06] Score Updated: 103
+[18/03/2025 17:53:06] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:53:06] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:53:06] Score Updated: 113
+[18/03/2025 17:53:07] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:53:07] Score Updated: 123
+[18/03/2025 17:53:07] Lives Updated: 5
+[18/03/2025 17:53:07] Score Updated: 128
+[18/03/2025 17:53:07] Score Updated: 134
+[18/03/2025 17:53:07] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:53:07] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:53:07] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:53:07] Lives Updated: 4
+[18/03/2025 17:53:07] Score Updated: 135
+[18/03/2025 17:53:07] Game Over!
+[18/03/2025 17:53:09] Game Restarted
+[18/03/2025 17:53:09] Game Started
+[18/03/2025 17:53:10] Score Updated: 0
+[18/03/2025 17:53:10] Lives Updated: 3
+[18/03/2025 17:53:10] Game Started
+[18/03/2025 17:53:10] Score Updated: 0
+[18/03/2025 17:53:10] Lives Updated: 3
+[18/03/2025 17:53:10] Game Started
+[18/03/2025 17:53:10] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:53:10] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:53:10] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:53:11] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:53:11] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:53:11] Score Updated: 1
+[18/03/2025 17:53:11] Score Updated: 11
+[18/03/2025 17:53:11] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:53:12] Score Updated: 21
+[18/03/2025 17:53:12] Adjusted Ghost Speed: 15.00
+[18/03/2025 17:53:12] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:53:12] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:53:12] Score Updated: 31
+[18/03/2025 17:53:13] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:53:13] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:53:13] Score Updated: 41
+[18/03/2025 17:53:13] Difficulty Increased: 1.1
+[18/03/2025 17:53:13] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:53:13] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:53:13] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:53:13] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:53:13] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:53:13] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:53:13] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:53:13] Lives Updated: 4
+[18/03/2025 17:53:13] Score Updated: 42
+[18/03/2025 17:53:13] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:53:13] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:53:14] Score Updated: 52
+[18/03/2025 17:53:14] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:53:14] Score Updated: 62
+[18/03/2025 17:53:14] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:53:15] Lives Updated: 5
+[18/03/2025 17:53:15] Score Updated: 72
+[18/03/2025 17:53:15] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:53:15] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:53:15] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:53:15] Score Updated: 82
+[18/03/2025 17:53:15] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:53:16] Score Updated: 92
+[18/03/2025 17:53:16] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:53:16] Score Updated: 97
+[18/03/2025 17:53:16] Score Updated: 102
+[18/03/2025 17:53:16] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:53:16] Difficulty Increased: 1.2
+[18/03/2025 17:53:16] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:53:16] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:53:16] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:53:16] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:53:16] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:53:16] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:53:16] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:53:16] Score Updated: 103
+[18/03/2025 17:53:16] Game Over!
+[18/03/2025 17:53:17] Game Restarted
+[18/03/2025 17:53:17] Game Started
+[18/03/2025 17:53:18] Score Updated: 0
+[18/03/2025 17:53:18] Lives Updated: 3
+[18/03/2025 17:53:18] Game Started
+[18/03/2025 17:53:18] Score Updated: 0
+[18/03/2025 17:53:18] Lives Updated: 3
+[18/03/2025 17:53:18] Game Started
+[18/03/2025 17:53:18] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:53:18] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:53:18] Adjusted Scroll Speed: 5.00
+[18/03/2025 17:53:19] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:53:19] Adjusted Power-Up Speed: 15.00
+[18/03/2025 17:53:19] Score Updated: 10
+[18/03/2025 17:53:19] Score Updated: 11
+[18/03/2025 17:53:20] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:53:20] Score Updated: 21
+[18/03/2025 17:53:20] Adjusted Ghost Speed: 15.00
+[18/03/2025 17:53:20] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:53:20] Score Updated: 31
+[18/03/2025 17:53:21] Adjusted Enemy Speed: 15.00
+[18/03/2025 17:53:21] Score Updated: 41
+[18/03/2025 17:53:21] Difficulty Increased: 1.1
+[18/03/2025 17:53:21] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:53:21] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:53:21] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:53:21] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:53:21] Adjusted Scroll Speed: 5.50
+[18/03/2025 17:53:21] Adjusted Power-Up Speed: 16.50
+[18/03/2025 17:53:21] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:53:21] Score Updated: 42
+[18/03/2025 17:53:22] Adjusted Ghost Speed: 16.50
+[18/03/2025 17:53:22] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:53:22] Score Updated: 52
+[18/03/2025 17:53:22] Adjusted Enemy Speed: 16.50
+[18/03/2025 17:53:22] Score Updated: 62
+[18/03/2025 17:53:22] Score Updated: 67
+[18/03/2025 17:53:22] Score Updated: 72
+[18/03/2025 17:53:22] Power-Up Collected! Score Increased by: 5
+[18/03/2025 17:53:22] Difficulty Increased: 1.2
+[18/03/2025 17:53:22] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:53:22] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:53:22] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:53:22] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:53:22] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:53:22] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:53:22] Adjusted Scroll Speed: 6.00
+[18/03/2025 17:53:23] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:53:23] Score Updated: 82
+[18/03/2025 17:53:23] Lives Updated: 4
+[18/03/2025 17:53:23] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:53:23] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:53:23] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:53:23] Score Updated: 92
+[18/03/2025 17:53:24] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:53:24] Score Updated: 93
+[18/03/2025 17:53:24] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:53:24] Score Updated: 103
+[18/03/2025 17:53:24] Lives Updated: 5
+[18/03/2025 17:53:25] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:53:25] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:53:25] Score Updated: 113
+[18/03/2025 17:53:25] Adjusted Power-Up Speed: 18.00
+[18/03/2025 17:53:25] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:53:25] Lives Updated: 4
+[18/03/2025 17:53:26] Score Updated: 123
+[18/03/2025 17:53:26] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:53:26] Score Updated: 128
+[18/03/2025 17:53:26] Score Updated: 134
+[18/03/2025 17:53:26] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:53:26] Adjusted Ghost Speed: 18.00
+[18/03/2025 17:53:26] Adjusted Enemy Speed: 18.00
+[18/03/2025 17:53:26] Score Updated: 144
+[18/03/2025 17:53:26] Score Updated: 145
+[18/03/2025 17:53:26] Difficulty Increased: 1.3
+[18/03/2025 17:53:26] Adjusted Ghost Speed: 19.50
+[18/03/2025 17:53:26] Adjusted Ghost Speed: 19.50
+[18/03/2025 17:53:26] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:53:26] Adjusted Enemy Speed: 19.50
+[18/03/2025 17:53:26] Adjusted Ghost Speed: 19.50
+[18/03/2025 17:53:26] Adjusted Enemy Speed: 19.50
+[18/03/2025 17:53:26] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:53:26] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:53:26] Adjusted Scroll Speed: 6.50
+[18/03/2025 17:53:27] Adjusted Enemy Speed: 19.50
+[18/03/2025 17:53:27] Lives Updated: 3
+[18/03/2025 17:53:27] Score Updated: 155
+[18/03/2025 17:53:27] Adjusted Power-Up Speed: 19.50
+[18/03/2025 17:53:27] Adjusted Enemy Speed: 19.50
+[18/03/2025 17:53:27] Lives Updated: 4
+[18/03/2025 17:53:28] Score Updated: 165
+[18/03/2025 17:53:28] Adjusted Ghost Speed: 19.50
+[18/03/2025 17:53:28] Adjusted Enemy Speed: 19.50
+[18/03/2025 17:53:28] Score Updated: 170
+[18/03/2025 17:53:28] Score Updated: 176
+[18/03/2025 17:53:28] Power-Up Collected! Score Increased by: 6
+[18/03/2025 17:53:28] Adjusted Enemy Speed: 19.50
+[18/03/2025 17:53:28] Score Updated: 186
+[18/03/2025 17:53:28] Score Updated: 187
+[18/03/2025 17:53:28] Game Over!
+[18/03/2025 17:53:28] Difficulty Increased: 1.4
+[18/03/2025 17:53:29] Game Restarted
+[18/03/2025 17:53:29] Game Started
+[18/03/2025 17:53:37] Lives Updated: 2
+[18/03/2025 17:53:37] Lives Updated: 1
+[18/03/2025 17:53:38] Game Over!
+[18/03/2025 17:53:38] Lives Updated: 0
+[18/03/2025 17:53:38] Difficulty Decreased: 1
+[18/03/2025 17:53:38] Lives Updated: 1
+[18/03/2025 17:53:38] Game Over!
+[18/03/2025 17:53:38] Lives Updated: 0
+[18/03/2025 17:53:39] Game Over!
+[18/03/2025 17:53:39] Lives Updated: -1
+[18/03/2025 17:53:39] Difficulty Decreased: 1
+[18/03/2025 17:53:39] Game Over!
+[18/03/2025 17:53:39] Lives Updated: -2
+[18/03/2025 17:53:39] Game Over!
+[18/03/2025 17:53:39] Lives Updated: -1
+[18/03/2025 17:53:40] Game Over!
+[18/03/2025 17:53:40] Lives Updated: -2
+[18/03/2025 17:53:40] Difficulty Decreased: 1
+[18/03/2025 17:53:40] Game Over!
+[18/03/2025 17:53:40] Lives Updated: -3
+[18/03/2025 17:53:41] Game Over!
+[18/03/2025 17:53:41] Lives Updated: -4
+[18/03/2025 17:53:41] Game Over!
+[18/03/2025 17:53:41] Lives Updated: -3
+[18/03/2025 17:53:41] Difficulty Decreased: 1
+[18/03/2025 17:53:41] Game Over!
+[18/03/2025 17:53:41] Lives Updated: -4
+[18/03/2025 17:53:42] Game Over!
+[18/03/2025 17:53:42] Lives Updated: -5
+[18/03/2025 17:53:42] Game Over!
+[18/03/2025 17:53:42] Lives Updated: -6
+[18/03/2025 17:53:42] Difficulty Decreased: 1
+[18/03/2025 17:53:42] Game Over!
+[18/03/2025 17:53:42] Lives Updated: -5
+[18/03/2025 17:53:43] Game Over!
+[18/03/2025 17:53:43] Lives Updated: -6
+[18/03/2025 17:53:43] Game Over!
+[18/03/2025 17:53:43] Lives Updated: -7
+[18/03/2025 17:53:43] Difficulty Decreased: 1
+[18/03/2025 17:53:44] Game Over!
+[18/03/2025 17:53:44] Lives Updated: -8
+[18/03/2025 17:53:44] Game Over!
+[18/03/2025 17:53:44] Lives Updated: -7
+[18/03/2025 17:53:44] Game Over!
+[18/03/2025 17:53:44] Lives Updated: -8
+[18/03/2025 17:53:44] Difficulty Decreased: 1
+[18/03/2025 17:53:45] Game Over!
+[18/03/2025 17:53:45] Lives Updated: -9
+[18/03/2025 17:53:45] Game Over!
+[18/03/2025 17:53:45] Lives Updated: -10
+[18/03/2025 17:53:45] Game Over!
+[18/03/2025 17:53:45] Lives Updated: -9
+[18/03/2025 17:53:45] Difficulty Decreased: 1
+[18/03/2025 17:53:45] Score Updated: 10
+[18/03/2025 17:53:46] Score Updated: 20
+[18/03/2025 17:53:46] Score Updated: 30
+[18/03/2025 17:53:47] Game Over!
+[18/03/2025 17:53:47] Lives Updated: -8
+[18/03/2025 17:53:47] Score Updated: 40
+[18/03/2025 17:53:48] Score Updated: 50
+[18/03/2025 17:53:48] Score Updated: 60
+[18/03/2025 17:53:48] Game Over!
+[18/03/2025 17:53:48] Lives Updated: -7
+[18/03/2025 17:53:49] Game Over!
+[18/03/2025 17:53:49] Lives Updated: -8
+[18/03/2025 17:53:49] Score Updated: 70
+[18/03/2025 17:53:50] Score Updated: 80
+[18/03/2025 17:53:50] Game Over!
+[18/03/2025 17:53:50] Lives Updated: -7
+[18/03/2025 17:53:50] Score Updated: 90
+[18/03/2025 17:53:51] Score Updated: 100
+[18/03/2025 17:53:51] Game Over!
+[18/03/2025 17:53:51] Lives Updated: -8
+[18/03/2025 17:53:51] Game Over!
+[18/03/2025 17:53:51] Lives Updated: -7
+[18/03/2025 17:53:51] Score Updated: 110
+[18/03/2025 17:53:52] Score Updated: 120
+[18/03/2025 17:53:53] Score Updated: 130
+[18/03/2025 17:53:53] Game Over!
+[18/03/2025 17:53:53] Lives Updated: -6
+[18/03/2025 17:53:53] Score Updated: 140
+[18/03/2025 17:53:54] Game Over!
+[18/03/2025 17:53:54] Lives Updated: -7
+[18/03/2025 17:53:54] Score Updated: 150
+[18/03/2025 17:53:54] Game Over!
+[18/03/2025 17:53:54] Lives Updated: -6
+[18/03/2025 17:53:55] Score Updated: 160
+[18/03/2025 17:53:55] Score Updated: 170
+[18/03/2025 17:53:56] Score Updated: 180
+[18/03/2025 17:53:56] Game Over!
+[18/03/2025 17:53:56] Lives Updated: -5
+[18/03/2025 17:53:56] Game Over!
+[18/03/2025 17:53:56] Lives Updated: -6
+[18/03/2025 17:53:56] Score Updated: 190
+[18/03/2025 17:53:57] Score Updated: 200
+[18/03/2025 17:53:57] Game Over!
+[18/03/2025 17:53:57] Lives Updated: -5
+[18/03/2025 17:53:58] Score Updated: 210
+[18/03/2025 17:53:58] Score Updated: 220
+[18/03/2025 17:53:59] Game Over!
+[18/03/2025 17:53:59] Lives Updated: -6
+[18/03/2025 17:53:59] Score Updated: 230
+[18/03/2025 17:53:59] Game Over!
+[18/03/2025 17:53:59] Lives Updated: -5
+[18/03/2025 17:53:59] Game Over!
+[18/03/2025 17:53:59] Lives Updated: -6
+[18/03/2025 17:53:59] Score Updated: 240
+[18/03/2025 17:54:00] Score Updated: 250
+[18/03/2025 17:54:00] Game Over!
+[18/03/2025 17:54:00] Lives Updated: -5
+[18/03/2025 17:54:01] Score Updated: 260
+[18/03/2025 17:54:01] Score Updated: 270
+[18/03/2025 17:54:02] Game Over!
+[18/03/2025 17:54:02] Lives Updated: -6
+[18/03/2025 17:54:02] Game Over!
+[18/03/2025 17:54:02] Lives Updated: -5
+[18/03/2025 17:54:02] Game Over!
+[18/03/2025 17:54:02] Lives Updated: -6
+[18/03/2025 17:54:02] Difficulty Decreased: 1
+[18/03/2025 17:54:03] Game Over!
+[18/03/2025 17:54:03] Lives Updated: -7
+[18/03/2025 17:54:03] Game Over!
+[18/03/2025 17:54:03] Lives Updated: -8
+[18/03/2025 17:54:03] Game Over!
+[18/03/2025 17:54:03] Lives Updated: -7
+[18/03/2025 17:54:03] Difficulty Decreased: 1
+[18/03/2025 17:54:04] Game Over!
+[18/03/2025 17:54:04] Lives Updated: -8
