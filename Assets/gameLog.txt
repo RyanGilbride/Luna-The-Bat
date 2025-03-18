@@ -464,3 +464,51 @@
 [18/03/2025 15:12:13] Score Updated: 11
 [18/03/2025 15:12:14] Score Updated: 12
 [18/03/2025 15:12:14] Game Over!
+[18/03/2025 15:37:19] Game Started
+[18/03/2025 15:37:20] Score Updated: 0
+[18/03/2025 15:37:20] Lives Updated: 3
+[18/03/2025 15:37:20] Game Started
+[18/03/2025 15:37:20] Score Updated: 0
+[18/03/2025 15:37:20] Lives Updated: 3
+[18/03/2025 15:37:20] Game Started
+[18/03/2025 15:37:22] Score Updated: 1
+[18/03/2025 15:37:22] Score Updated: 11
+[18/03/2025 15:37:24] Score Updated: 12
+[18/03/2025 15:37:24] Lives Updated: 4
+[18/03/2025 15:37:25] Score Updated: 17
+[18/03/2025 15:37:25] Score Updated: 22
+[18/03/2025 15:37:27] Score Updated: 23
+[18/03/2025 15:37:27] Score Updated: 28
+[18/03/2025 15:37:27] Score Updated: 33
+[18/03/2025 15:37:27] Difficulty Increased: 1.1
+[18/03/2025 15:37:28] Score Updated: 43
+[18/03/2025 15:37:29] Score Updated: 48
+[18/03/2025 15:37:29] Score Updated: 53
+[18/03/2025 15:37:29] Score Updated: 54
+[18/03/2025 15:37:30] Score Updated: 55
+[18/03/2025 15:37:30] Difficulty Increased: 1.2
+[18/03/2025 15:37:30] Lives Updated: 5
+[18/03/2025 15:37:31] Score Updated: 60
+[18/03/2025 15:37:31] Score Updated: 66
+[18/03/2025 15:37:32] Score Updated: 76
+[18/03/2025 15:37:32] Score Updated: 77
+[18/03/2025 15:37:33] Score Updated: 82
+[18/03/2025 15:37:33] Score Updated: 88
+[18/03/2025 15:37:33] Difficulty Increased: 1.3
+[18/03/2025 15:37:35] Score Updated: 89
+[18/03/2025 15:37:36] Lives Updated: 6
+[18/03/2025 15:37:37] Score Updated: 90
+[18/03/2025 15:37:37] Score Updated: 100
+[18/03/2025 15:37:39] Level 2 Loaded
+[18/03/2025 15:37:39] Score Updated: 0
+[18/03/2025 15:37:39] Lives Updated: 6
+[18/03/2025 15:37:39] Game Started
+[18/03/2025 15:37:39] Game Started
+[18/03/2025 15:37:40] Score Updated: 0
+[18/03/2025 15:37:40] Lives Updated: 3
+[18/03/2025 15:37:40] Game Started
+[18/03/2025 15:37:40] Score Updated: 0
+[18/03/2025 15:37:40] Lives Updated: 3
+[18/03/2025 15:37:40] Game Started
+[18/03/2025 15:37:42] Score Updated: 1
+[18/03/2025 15:37:42] Game Over!

@@ -1,10 +1,14 @@
 using UnityEngine;
+using TMPro; // For UI feedback
 
 public class MovePowerUpLeft : MonoBehaviour
 {
     [SerializeField] private float speed = 10.0f;
     [SerializeField] private float bounceSpeed = 1.0f;
     [SerializeField] private float bounceHeight = 5.0f;
+
+    // For UI feedback
+    [SerializeField] private TextMeshProUGUI powerupSpeedText; // Assign in Inspector
 
     private Vector3 initialPosition;
     private PlayerController playerControllerScript;
@@ -15,13 +19,23 @@ public class MovePowerUpLeft : MonoBehaviour
         initialPosition = transform.position;
         playerControllerScript = GameObject.Find("Player")?.GetComponent<PlayerController>();
         gameManager = GameObject.Find("GameManager")?.GetComponent<GameManager>();
+
     }
 
     void Update()
     {
         if (playerControllerScript != null && !playerControllerScript.gameOver && gameManager != null && gameManager.isGameActive)
         {
-            transform.Translate(Vector3.back * Time.deltaTime * speed);
+            // Adjust speed based on difficulty
+            float adjustedSpeed = speed * gameManager.GetDifficultyMultiplier();
+
+            // Log the adjusted speed to the console
+            Debug.Log($"Adjusted Power-Up Speed: {adjustedSpeed:F2}");
+
+            // Move the power-up
+            transform.Translate(Vector3.back * Time.deltaTime * adjustedSpeed);
+
+            // Bounce effect
             float newY = initialPosition.y + Mathf.PingPong(Time.time * bounceSpeed, bounceHeight);
             transform.position = new Vector3(transform.position.x, newY, transform.position.z);
         }

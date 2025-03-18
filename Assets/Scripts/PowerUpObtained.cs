@@ -1,9 +1,13 @@
 using UnityEngine;
+using TMPro; // For UI feedback
 
 public class PowerUpObtained : MonoBehaviour
 {
     [SerializeField] private GameManager gameManager;
     [SerializeField] private AudioClip powerupConsume;
+
+    // For UI feedback
+    [SerializeField] private TextMeshProUGUI powerupEffectText; // Assign in Inspector
 
     private AudioSource playerAudio;
 
@@ -11,13 +15,20 @@ public class PowerUpObtained : MonoBehaviour
     {
         playerAudio = GetComponent<AudioSource>();
         gameManager = GameObject.Find("GameManager")?.GetComponent<GameManager>();
+
     }
 
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("PowerUp"))
         {
-            gameManager?.UpdateScore(5);
+            // Adjust score based on difficulty
+            int scoreIncrease = (int)(5 * gameManager.GetDifficultyMultiplier());
+            gameManager?.UpdateScore(scoreIncrease);
+
+            // Log the power-up effect to the console
+            Debug.Log($"Power-Up Collected! Score Increased by: {scoreIncrease}");
+     
             Destroy(other.gameObject);
             playerAudio.PlayOneShot(powerupConsume, 1.0f);
         }

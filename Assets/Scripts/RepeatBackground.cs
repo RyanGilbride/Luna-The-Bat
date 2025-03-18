@@ -27,7 +27,7 @@ public class RepeatBackground : MonoBehaviour
             float adjustedSpeed = scrollSpeed * gameManager.GetDifficultyMultiplier();
 
             // Log the adjusted scroll speed to the console
-            //Debug.Log($"Adjusted Scroll Speed: {adjustedSpeed:F2}");
+            Debug.Log($"Adjusted Scroll Speed: {adjustedSpeed:F2}");
 
             // Move the background
             transform.Translate(Vector3.left * adjustedSpeed * Time.deltaTime);
