@@ -30,8 +30,8 @@ public class MovePowerUpLeft : MonoBehaviour
             // Adjust speed based on difficulty
             float adjustedSpeed = speed * gameManager.GetDifficultyMultiplier();
 
-            // Log the adjusted speed ONLY if it changes
-            if (adjustedSpeed != lastLoggedSpeed)
+            // Log the adjusted speed ONLY if it changes significantly
+            if (!Mathf.Approximately(adjustedSpeed, lastLoggedSpeed))
             {
                 string logMessage = $"Adjusted Power-Up Speed: {adjustedSpeed:F2}";
                 Debug.Log(logMessage);

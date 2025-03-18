@@ -27,14 +27,15 @@ public class RepeatBackground : MonoBehaviour
             // Adjust scroll speed based on difficulty
             float adjustedSpeed = scrollSpeed * gameManager.GetDifficultyMultiplier();
 
-            // Log to file ONLY if the speed changes
-            if (adjustedSpeed != lastLoggedSpeed)
+            // Log to file ONLY if the speed changes significantly
+            if (!Mathf.Approximately(adjustedSpeed, lastLoggedSpeed))
             {
                 string logMessage = $"Adjusted Scroll Speed: {adjustedSpeed:F2}";
                 Debug.Log(logMessage);
                 gameManager.LogData(logMessage);
-                lastLoggedSpeed = adjustedSpeed;
+                lastLoggedSpeed = adjustedSpeed; // Update the last logged speed
             }
+
 
             // Move the background
             transform.Translate(Vector3.left * adjustedSpeed * Time.deltaTime);
