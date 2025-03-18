@@ -1,5 +1,5 @@
 using UnityEngine;
-using TMPro; // For UI feedback
+using TMPro;
 
 public class MovePowerUpLeft : MonoBehaviour
 {
@@ -13,6 +13,7 @@ public class MovePowerUpLeft : MonoBehaviour
     private Vector3 initialPosition;
     private PlayerController playerControllerScript;
     private GameManager gameManager;
+    private float lastLoggedSpeed = -1f; // Track the last logged speed
 
     void Start()
     {
@@ -29,8 +30,14 @@ public class MovePowerUpLeft : MonoBehaviour
             // Adjust speed based on difficulty
             float adjustedSpeed = speed * gameManager.GetDifficultyMultiplier();
 
-            // Log the adjusted speed to the console
-            Debug.Log($"Adjusted Power-Up Speed: {adjustedSpeed:F2}");
+            // Log the adjusted speed ONLY if it changes
+            if (adjustedSpeed != lastLoggedSpeed)
+            {
+                string logMessage = $"Adjusted Power-Up Speed: {adjustedSpeed:F2}";
+                Debug.Log(logMessage);
+                gameManager?.LogData(logMessage);
+                lastLoggedSpeed = adjustedSpeed; // Update the last logged speed
+            }
 
             // Move the power-up
             transform.Translate(Vector3.back * Time.deltaTime * adjustedSpeed);

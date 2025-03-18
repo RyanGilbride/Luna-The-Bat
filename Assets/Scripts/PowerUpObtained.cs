@@ -26,9 +26,11 @@ public class PowerUpObtained : MonoBehaviour
             int scoreIncrease = (int)(5 * gameManager.GetDifficultyMultiplier());
             gameManager?.UpdateScore(scoreIncrease);
 
-            // Log the power-up effect to the console
-            Debug.Log($"Power-Up Collected! Score Increased by: {scoreIncrease}");
-     
+            // Log the power-up effect to the console and gameLog.txt
+            string logMessage = $"Power-Up Collected! Score Increased by: {scoreIncrease}";
+            Debug.Log(logMessage);
+            gameManager?.LogData(logMessage);
+
             Destroy(other.gameObject);
             playerAudio.PlayOneShot(powerupConsume, 1.0f);
         }

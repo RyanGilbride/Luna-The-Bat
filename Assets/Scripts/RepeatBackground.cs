@@ -1,5 +1,5 @@
 using UnityEngine;
-using TMPro; // For UI feedback
+using TMPro;
 
 public class RepeatBackground : MonoBehaviour
 {
@@ -7,6 +7,7 @@ public class RepeatBackground : MonoBehaviour
     private float repeatWidth;
     private float scrollSpeed = 5.0f; // Base scroll speed
     private GameManager gameManager;
+    private float lastLoggedSpeed = -1f; // Track the last logged speed
 
     // For UI feedback
     [SerializeField] private TextMeshProUGUI scrollSpeedText; // Assign in Inspector
@@ -14,7 +15,7 @@ public class RepeatBackground : MonoBehaviour
     void Start()
     {
         startPos = transform.position;
-        repeatWidth = GetComponent<BoxCollider>().size.x / 2; // Use half the width for seamless looping
+        repeatWidth = GetComponent<BoxCollider>().size.x / 2;
         gameManager = GameObject.Find("GameManager")?.GetComponent<GameManager>();
 
     }
@@ -26,8 +27,14 @@ public class RepeatBackground : MonoBehaviour
             // Adjust scroll speed based on difficulty
             float adjustedSpeed = scrollSpeed * gameManager.GetDifficultyMultiplier();
 
-            // Log the adjusted scroll speed to the console
-            Debug.Log($"Adjusted Scroll Speed: {adjustedSpeed:F2}");
+            // Log to file ONLY if the speed changes
+            if (adjustedSpeed != lastLoggedSpeed)
+            {
+                string logMessage = $"Adjusted Scroll Speed: {adjustedSpeed:F2}";
+                Debug.Log(logMessage);
+                gameManager.LogData(logMessage);
+                lastLoggedSpeed = adjustedSpeed;
+            }
 
             // Move the background
             transform.Translate(Vector3.left * adjustedSpeed * Time.deltaTime);

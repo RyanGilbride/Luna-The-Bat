@@ -133,7 +133,8 @@ public class GameManager : MonoBehaviour
     }
 
     // Data Logging Method
-    private void LogData(string message)
+    public void LogData(string message)
+
     {
         string logEntry = $"[{System.DateTime.Now}] {message}";
         File.AppendAllText(logFilePath, logEntry + "\n");
